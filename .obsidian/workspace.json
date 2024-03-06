@@ -11,14 +11,6 @@
             "id": "dd45a66a35c7cf1d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ff6c4a57cba0ae7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Hello Macbook!.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +144,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "3ff6c4a57cba0ae7",
+  "active": "e36ebf5c5c143f9a",
   "lastOpenFiles": [
+    "Limit Comparison Test.md",
+    "Telescoping Series.md",
     "Hello Macbook!.md",
+    "Test_Note.md",
     "main",
     "Obsidian-Vault",
     "Alternating Series Test.md",
@@ -170,7 +164,6 @@
     "Geometric Series.md",
     "Ratio Test.md",
     "Root Test.md",
-    "Limit Comparison Test.md",
     "Abstract Data Type.md",
     "2024-02-21.md",
     "Divergence Test.md",
@@ -187,8 +180,6 @@
     "Quotes",
     "Calculus Index.md",
     "Direct Comparison Test.md",
-    "2024-02-15.md",
-    "Telescoping Series.md",
-    "Harmonic Series.md"
+    "2024-02-15.md"
   ]
 }
