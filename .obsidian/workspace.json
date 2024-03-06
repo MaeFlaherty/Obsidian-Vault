@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "1a77d98acd58f7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d0f0eb48c0aa4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd45a66a35c7cf1d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6b4785d146604a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e71bd257f492ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36ebf5c5c143f9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3048b48c1d6cd9cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb0284f2736dd4f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0455d238620c116b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6874548977308551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "211ba34ab0fa51bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "697a94ca507ac668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d5fa344fb11a345",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04c2a328016ffc91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "dd45a66a35c7cf1d",
+  "lastOpenFiles": [
+    "main",
+    "Obsidian-Vault",
+    "Alternating Series Test.md",
+    "Alternating Series.md",
+    "Series Convergence Tests.md",
+    "Integral Test.md",
+    "Series.md",
+    "Geometric Series.md",
+    "Ratio Test.md",
+    "Root Test.md",
+    "Limit Comparison Test.md",
+    "Abstract Data Type.md",
+    "2024-02-21.md",
+    "Divergence Test.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "P Series.md",
+    "Riemann Rearrangement Theorem.md",
+    "Riemann Summability Theorem.md",
+    "Maclaurin Polynomials.md",
+    "Taylor Series.md",
+    "Absolute Convergence.md",
+    "Ratio Test for Absolute convergence.md",
+    "Conditional Convergence.md",
+    "Quotes",
+    "Calculus Index.md",
+    "Direct Comparison Test.md",
+    "2024-02-15.md",
+    "Telescoping Series.md",
+    "Harmonic Series.md"
+  ]
+}
