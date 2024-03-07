@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Macbook!.md",
+                "file": "Limit Comparison Test.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "52b46ed737b9f803",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Macbook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Macbook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hello Macbook!.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +153,13 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e36ebf5c5c143f9a",
+  "active": "52b46ed737b9f803",
   "lastOpenFiles": [
+    "Quotes/The Power Broker - Robert Caro.md",
     "Limit Comparison Test.md",
-    "Telescoping Series.md",
+    "Quotes",
     "Hello Macbook!.md",
+    "Telescoping Series.md",
     "Test_Note.md",
     "main",
     "Obsidian-Vault",
@@ -179,7 +186,6 @@
     "Conditional Convergence.md",
     "Quotes",
     "Calculus Index.md",
-    "Direct Comparison Test.md",
-    "2024-02-15.md"
+    "Direct Comparison Test.md"
   ]
 }
