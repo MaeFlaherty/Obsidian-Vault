@@ -1,1 +1,0 @@
-"He Paused to chat with the sailors who were too old to follow the bay any more and spent their days sitting on upturned oyster barrels looking out over it;"

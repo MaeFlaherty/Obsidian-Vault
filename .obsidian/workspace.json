@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd45a66a35c7cf1d",
+            "id": "52b46ed737b9f803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "52b46ed737b9f803",
+            "id": "1d0766212d3dae37",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Greedy Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#calculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dijkstra's Algorithm.md"
+              }
             }
           }
         ]
@@ -155,7 +162,11 @@
   },
   "active": "52b46ed737b9f803",
   "lastOpenFiles": [
+    "Dijkstra's Algorithm.md",
     "Quotes/The Power Broker - Robert Caro.md",
+    "Data Structures/Greedy Algorithm.md",
+    "Data Structures",
+    "Untitled.canvas",
     "Limit Comparison Test.md",
     "Quotes",
     "Hello Macbook!.md",
@@ -175,7 +186,6 @@
     "2024-02-21.md",
     "Divergence Test.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "P Series.md",
     "Riemann Rearrangement Theorem.md",
     "Riemann Summability Theorem.md",
@@ -184,8 +194,6 @@
     "Absolute Convergence.md",
     "Ratio Test for Absolute convergence.md",
     "Conditional Convergence.md",
-    "Quotes",
-    "Calculus Index.md",
-    "Direct Comparison Test.md"
+    "Quotes"
   ]
 }
