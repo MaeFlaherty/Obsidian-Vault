@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1d0f0eb48c0aa4ca",
+        "id": "5570d6138da3ce39",
         "type": "tabs",
         "children": [
           {
-            "id": "52b46ed737b9f803",
+            "id": "514cdf07712b75e0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "8ff65144c69bc225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dijkstra's Algorithm.md",
+                "file": "The Atomic Theory.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "1d0766212d3dae37",
+            "id": "b8e9c9674f951293",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Greedy Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#calculus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +90,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0455d238620c116b",
@@ -97,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +149,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dijkstra's Algorithm.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,44 +167,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52b46ed737b9f803",
+  "active": "b8e9c9674f951293",
   "lastOpenFiles": [
-    "Dijkstra's Algorithm.md",
-    "Quotes/The Power Broker - Robert Caro.md",
+    "Plate Tectonics and Minerals.md",
+    "Geology.md",
+    "Pasted image 20241003142820.png",
+    "Earth's Origins and Structure.md",
+    "The Atomic Theory.md",
+    "Chemistry.md",
+    "Untitled 2.canvas",
+    "Series Convergence Tests.md",
+    "Environmental Science.md",
+    "Systems.md",
+    "Series.md",
     "Data Structures/Greedy Algorithm.md",
-    "Data Structures",
+    "P Series.md",
+    "Direct Comparison Test.md",
+    "Divergence Test.md",
+    "Integral Test.md",
+    "Harmonic Series.md",
+    "2024-10-01.md",
+    "Untitled 1.canvas",
+    "Dijkstra's Algorithm.md",
+    "Pattern Language.md",
+    "Excalidraw/Drawing 2024-09-09 17.49.46.excalidraw.md",
+    "Excalidraw",
+    "Data Structures.md",
     "Untitled.canvas",
+    "Absolute Convergence.md",
+    "Quotes/The Power Broker - Robert Caro.md",
+    "Data Structures",
     "Limit Comparison Test.md",
     "Quotes",
     "Hello Macbook!.md",
     "Telescoping Series.md",
-    "Test_Note.md",
     "main",
     "Obsidian-Vault",
-    "Alternating Series Test.md",
-    "Alternating Series.md",
-    "Series Convergence Tests.md",
-    "Integral Test.md",
-    "Series.md",
-    "Geometric Series.md",
-    "Ratio Test.md",
-    "Root Test.md",
-    "Abstract Data Type.md",
-    "2024-02-21.md",
-    "Divergence Test.md",
-    "Untitled 1.canvas",
-    "P Series.md",
-    "Riemann Rearrangement Theorem.md",
-    "Riemann Summability Theorem.md",
-    "Maclaurin Polynomials.md",
-    "Taylor Series.md",
-    "Absolute Convergence.md",
-    "Ratio Test for Absolute convergence.md",
-    "Conditional Convergence.md",
     "Quotes"
   ]
 }
