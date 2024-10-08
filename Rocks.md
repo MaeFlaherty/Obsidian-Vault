@@ -29,6 +29,8 @@ Formed when preexisting rock is exposed to Heat or Pressure
 
 Metamorphic rocks are formed at continental plate barriers, where energy from the collision or divergence of plates stressed the rock, exposing it to heat and pressure, causing the rock that is already there to recrystallize into different types of rock. 
 # The Rock Cycle
+[[new note for git]]
+
 ## How are Rocks Formed?
 ### Erosion
 Rock formations break off pieces over time, from wind, rain, or other reasons. these smaller particles can sometimes collect into sediment and form sedimentary rocks
@@ -41,6 +43,8 @@ Magma from the mantle comes up to the surface at mid ocean ridges and volcanoes,
 
 ### Pressure
 Forces at Continental plate boundaries, or sufficient depth in the earth's crust can put large amounts of heat and pressure on rocks, cansing the formation of metamorphic rocks
+
+
 
 
 # Magma and Igneous Processes
