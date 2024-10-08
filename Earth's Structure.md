@@ -5,7 +5,12 @@ The Earth's crust is similar, but has a much lower concentration of iron, and is
 ### Why is the Earth's composition different at the center than on the crust?
 Iron is a very dense element, and the core of the earth is almost pure iron, as gravity has a stronger pull on it. Therefore, the denser elements will be mostly closer to the center. This is detailed in [[Earth's Origins]]
 
-# Inter-plate Volcanoes and hot spots
+# Heat Within the Earth
+The earth is hot on the inside due to remnant heat from massive collisions as a planetoid, as well as ongoing heat generation, caused by radioactive decay of materials within the mantle.
+
+The earth is very slowly losing it's heat, and will eventually solidify, and stop vulcanizing and producing igneous rock. 
+
+## Inter-plate Volcanoes and hot spots
 The mantle is not one uniform temperature across the entire earth's surface. These variations are caused by convection currents of heat rising through the mantle and burning through the crust, causing volcanoes that do not lie at plate boundaries.
 
 As plates move, the hotspots stay in the same place, forming new Islands and subterranean volcanoes as the old islands move away from the hot spot. This can create inter plate island chains and volcanic belts.
@@ -14,3 +19,4 @@ As plates move, the hotspots stay in the same place, forming new Islands and sub
 # Related
 [[Earth's Origins]]
 [[Minerals]]
+[[Magma]]
