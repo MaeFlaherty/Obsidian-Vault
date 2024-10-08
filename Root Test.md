@@ -1,4 +1,3 @@
-#mathematics #calculus 
  Companion to the [[Ratio Test]]
  Let 
  $$

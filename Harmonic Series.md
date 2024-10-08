@@ -1,4 +1,3 @@
-#calculus #mathematics 
 A harmonic series is a [[Series]] that takes the form
 $$
 \sum^\infty_{n = 1}\frac{1}{n}

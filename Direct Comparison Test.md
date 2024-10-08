@@ -1,4 +1,3 @@
-#mathematics #calculus 
 the direct comparison test says that
 if we have 2 positive series
 $$

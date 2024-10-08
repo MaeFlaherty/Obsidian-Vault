@@ -1,0 +1,1 @@
+an herbarium is an archive of preserved plants.

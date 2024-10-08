@@ -1,4 +1,3 @@
-#mathematics #calculus 
 For a series $\sum_{k=1}^\infty u_k$ with positive terms if a function $f$ is positive, continuous on $[a, \infty)$, and decreasing, AND $u_k = f(k)\forall k>a$  then
 $$
 \sum_{k=1}^\infty u_k 
@@ -17,3 +16,4 @@ REMEMBER PCD
 **Decreasing**: The function must be decreasing(check if the first derivative is negative)
 
 >Use this as a last resort when all other convergence tests have failed
+

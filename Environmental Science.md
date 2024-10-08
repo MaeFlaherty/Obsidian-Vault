@@ -1,1 +1,5 @@
-Environmental Science involves the study of [[Systems]] that come together to form the natural world. 
+#envi-sci 
+# Classes
+[[ENVS-101 Intro to Environmental Science]]
+[[ENVS-201 Plant and Animal Identification]]
+

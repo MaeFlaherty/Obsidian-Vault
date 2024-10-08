@@ -1,4 +1,3 @@
-#calculus #mathematics 
 ### Definition
 A Geometric Series is a [[Series]] that takes the form 
 $$

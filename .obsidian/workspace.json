@@ -4,47 +4,104 @@
     "type": "split",
     "children": [
       {
-        "id": "5570d6138da3ce39",
+        "id": "20b72ca457fa2bb1",
         "type": "tabs",
+        "dimension": 70.80479452054794,
         "children": [
           {
-            "id": "514cdf07712b75e0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "8ff65144c69bc225",
+            "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atomic Theory.md",
+                "file": "Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "0889e861d00e1194",
+        "type": "split",
+        "dimension": 29.195205479452053,
+        "children": [
+          {
+            "id": "92f57046e7b1dd3c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8528102c9e740bce",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Rocks.md"
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "b8e9c9674f951293",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "552183ddb2f79846",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bef812233e15851a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Rocks.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "Geology",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        },
+                        {
+                          "query": "",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14725458
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.015747856572908024,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -73,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Identifying",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,13 +169,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -128,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rocks.md"
+              }
             }
           }
         ],
@@ -157,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,43 +230,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8e9c9674f951293",
+  "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Plate Tectonics and Minerals.md",
-    "Geology.md",
-    "Pasted image 20241003142820.png",
-    "Earth's Origins and Structure.md",
-    "The Atomic Theory.md",
-    "Chemistry.md",
-    "Untitled 2.canvas",
-    "Series Convergence Tests.md",
-    "Environmental Science.md",
-    "Systems.md",
+    "Minerals.md",
+    "Rocks.md",
+    "Energy.md",
+    "Law Of Conservation of Energy.md",
+    "Photosynthesis.md",
+    "ENVS-101 Intro to Environmental Science.md",
+    "CHEM-101, Intro to Chemistry.md",
+    "Pasted image 20241008133533.png",
+    "Visible Light Spectrum.md",
+    "Energy Spectrum.md",
+    "Ecosystems.md",
+    "ENVS-201 Plant and Animal Identification.md",
     "Series.md",
-    "Data Structures/Greedy Algorithm.md",
-    "P Series.md",
-    "Direct Comparison Test.md",
-    "Divergence Test.md",
-    "Integral Test.md",
-    "Harmonic Series.md",
+    "MATH-123 Calculus 3.md",
+    "Floral Structure Identification.md",
+    "Environmental Science.md",
+    "Herbariums.md",
     "2024-10-01.md",
-    "Untitled 1.canvas",
-    "Dijkstra's Algorithm.md",
-    "Pattern Language.md",
-    "Excalidraw/Drawing 2024-09-09 17.49.46.excalidraw.md",
-    "Excalidraw",
-    "Data Structures.md",
-    "Untitled.canvas",
-    "Absolute Convergence.md",
-    "Quotes/The Power Broker - Robert Caro.md",
-    "Data Structures",
+    "Alternating Series Test.md",
+    "GEO-101, Intro to Geology.md",
+    "Graph Coloring.md",
+    "Ratio Test.md",
+    "Integral Test.md",
+    "Series Convergence Tests.md",
     "Limit Comparison Test.md",
+    "Direct Comparison Test.md",
+    "Mohs Hardness Scale.md",
+    "Screenshot 2024-10-04 at 11.01.25 AM.png",
+    "Screenshot 2024-10-04 at 10.55.25 AM.png",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Pasted image 20241003142820.png",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Data Structures",
     "Quotes",
-    "Hello Macbook!.md",
-    "Telescoping Series.md",
     "main",
     "Obsidian-Vault",
     "Quotes"

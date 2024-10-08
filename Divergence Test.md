@@ -1,4 +1,4 @@
-#mathematics #calculus 
+
 for a series
 $$
 \sum^\infty_{n=1} u_k

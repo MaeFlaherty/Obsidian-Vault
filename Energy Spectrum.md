@@ -1,0 +1,1 @@
+humans can only see a narrow spectrum of visible light, 

@@ -1,4 +1,3 @@
-#mathematics #calculus 
 Companion to the [[Root Test]]
 if $u_k$ is positive and 
 $$

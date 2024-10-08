@@ -1,4 +1,3 @@
-#calculus #mathematics 
 A Telescoping series is a [[Series]] that usually has a term $t_n = a_n+1 - a_n$, or
 $$
 \sum^\infty_{n=1}\frac{1}{n(n+1)} = \sum^\infty_{n=1}\frac{1}{n} - \frac{1}{n+1}

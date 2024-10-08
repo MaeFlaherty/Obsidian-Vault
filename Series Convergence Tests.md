@@ -1,4 +1,3 @@
-#calculus #mathematics 
 To find whether a [[series]] converges or diverges, we have a variety of methods at our disposal
 
 [[Divergence Test]]
