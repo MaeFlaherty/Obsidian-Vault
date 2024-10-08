@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocks.md",
+                "file": "Earth's Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Rocks.md"
+                    "file": "Earth's Structure.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rocks.md",
+                    "file": "Earth's Structure.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rocks.md",
+                "file": "Earth's Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rocks.md",
+                "file": "Earth's Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rocks.md"
+                "file": "Earth's Structure.md"
               }
             }
           },
@@ -226,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,8 +245,17 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "new note for git.md",
     "Rocks.md",
+    "Earth's Structure.md",
+    "Pasted image 20241008145553.png",
+    "Screenshot 2024-10-08 at 2.45.01 PM.png",
+    "Screenshot 2024-10-08 at 2.44.54 PM.png",
+    "Screenshot 2024-10-08 at 2.44.46 PM.png",
+    "Screenshot 2024-10-08 at 2.44.10 PM 1.png",
+    "Screenshot 2024-10-08 at 2.44.10 PM.png",
+    "Screenshot 2024-10-08 at 2.43.47 PM.png",
+    "Pasted image 20241008144018.png",
+    "new note for git.md",
     "GEO-101, Intro to Geology.md",
     "Minerals.md",
     "Energy.md",
@@ -269,13 +279,9 @@
     "Ratio Test.md",
     "Integral Test.md",
     "Series Convergence Tests.md",
-    "Limit Comparison Test.md",
-    "Direct Comparison Test.md",
     "Screenshot 2024-10-04 at 11.01.25 AM.png",
-    "Screenshot 2024-10-04 at 10.55.25 AM.png",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Pasted image 20241003142820.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "Untitled.canvas",
