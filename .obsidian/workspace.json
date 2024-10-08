@@ -12,13 +12,8 @@
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rocks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -37,9 +32,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "Rocks.md"
-                  }
+                  "state": {}
                 }
               }
             ]
@@ -54,7 +47,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rocks.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,18 +198,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rocks.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "0d101c3e976930e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,13 +226,15 @@
       "command-palette:Open command palette": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Minerals.md",
+    "GEO-101, Intro to Geology.md",
     "Rocks.md",
+    "Minerals.md",
     "Energy.md",
     "Law Of Conservation of Energy.md",
     "Photosynthesis.md",
@@ -255,7 +252,6 @@
     "Herbariums.md",
     "2024-10-01.md",
     "Alternating Series Test.md",
-    "GEO-101, Intro to Geology.md",
     "Graph Coloring.md",
     "Ratio Test.md",
     "Integral Test.md",

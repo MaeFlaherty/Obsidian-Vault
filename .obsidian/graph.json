@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#geology",
@@ -39,13 +39,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 0.998811848958333,
+  "nodeSizeMultiplier": 1.4984619140625,
   "lineSizeMultiplier": 0.988045247395833,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.427001953125,
   "repelStrength": 10.0325520833333,
   "linkStrength": 1,
   "linkDistance": 237,
-  "scale": 0.8019968590106633,
-  "close": true
+  "scale": 0.9806869988277629,
+  "close": false
 }
