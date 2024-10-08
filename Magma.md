@@ -16,4 +16,5 @@ Some compounds are volatile, and can decrease the melting point of mantle rock. 
 - Solids: Solidified Mineral Crystals are carried in the melt
 - Liquids: The melt itself, is mostly silicon and oxygen ions, with other elements mixed in
 - Different Mixes of elements yield different forms of magma
-
+## Magma Variation
+Rocks are made up of different minerals with different melting points, and when melted, not everything in the rock dissolves completely. silicon rich minerals melt first, with silicon poor minerals melting last, or not melting at all, dependent on temperature. 

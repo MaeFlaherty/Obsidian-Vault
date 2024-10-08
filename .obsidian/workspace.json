@@ -12,13 +12,8 @@
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -37,9 +32,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "Magma.md"
-                  }
+                  "state": {}
                 }
               }
             ]
@@ -54,7 +47,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Magma.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Magma.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,8 +233,8 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Earth's Structure.md",
     "Magma.md",
+    "Earth's Structure.md",
     "Rocks.md",
     "Pasted image 20241008145553.png",
     "Screenshot 2024-10-08 at 2.45.01 PM.png",
