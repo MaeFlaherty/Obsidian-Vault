@@ -10,4 +10,5 @@ The Energy released by a photon = the Energy absorbed by the electron, known as 
 Light is not a wave, but a stream of photons
 
 the energy of a photon = $h\nu = hc/\lambda$ 
+$c = 3.00 * 10^8$
 where $h = 6.626*10^{-34}$kg/s
