@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomes.md",
+                "file": "Energy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Biomes.md"
+                    "file": "Energy.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Biomes.md",
+                    "file": "Energy.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomes.md",
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomes.md",
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biomes.md"
+                "file": "Energy.md"
               }
             }
           },
@@ -245,9 +245,9 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Biomes.md",
     "Screenshot 2024-10-10 at 10.44.39 AM.png",
     "Screenshot 2024-10-10 at 10.44.01 AM.png",
-    "Biomes.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Ecosystems.md",
     "Carbon, Nitrogen, and Water Cycles.md",
@@ -271,7 +271,6 @@
     "Energy.md",
     "Law Of Conservation of Energy.md",
     "CHEM-101, Intro to Chemistry.md",
-    "Pasted image 20241008133533.png",
     "ENVS-201 Plant and Animal Identification.md",
     "Series.md",
     "MATH-123 Calculus 3.md",
