@@ -24,4 +24,5 @@ An organism's trophic level describes what level it lies at in the food web. **P
 
 **Decomposers**, like insects and fungi, also feed on dead organisms, breaking down their biomass into energy and nutrients, which return to the soil
 
-##
+# Biomes and Biodiversity
+

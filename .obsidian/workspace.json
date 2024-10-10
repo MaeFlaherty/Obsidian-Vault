@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minerals.md",
+                "file": "Ecosystems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Minerals.md"
+                    "file": "Ecosystems.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Minerals.md",
+                    "file": "Ecosystems.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minerals.md",
+                "file": "Ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minerals.md",
+                "file": "Ecosystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minerals.md"
+                "file": "Ecosystems.md"
               }
             }
           },
@@ -245,6 +245,9 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Photosynthesis.md",
+    "Ecosystems.md",
+    "Minerals.md",
     "Visible Light Spectrum.md",
     "Energy Spectrum.md",
     "Magma.md",
@@ -260,14 +263,11 @@
     "Pasted image 20241008144018.png",
     "new note for git.md",
     "GEO-101, Intro to Geology.md",
-    "Minerals.md",
     "Energy.md",
     "Law Of Conservation of Energy.md",
-    "Photosynthesis.md",
     "ENVS-101 Intro to Environmental Science.md",
     "CHEM-101, Intro to Chemistry.md",
     "Pasted image 20241008133533.png",
-    "Ecosystems.md",
     "ENVS-201 Plant and Animal Identification.md",
     "Series.md",
     "MATH-123 Calculus 3.md",
