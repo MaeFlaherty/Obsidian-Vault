@@ -1,3 +1,6 @@
+# Why So Many Cycles?
+
+
 The water cycle is the process by which water uses to move through the world. Most of the earth's water is stored in oceans, but the sun evaporates this water, and wind distrubutes it around the globe. This vapor eventually forms clousd and precipitates in the form of rain, which then soaks into the ground as groundwater, or flows down in elevation, through rivers and eventually back to the ocean. This is known as the water table. 
 
 # The Carbon Cycle
@@ -14,6 +17,13 @@ too much nitrogen, from fertilizer runoff or natural gas pollution, can collect 
 
 # The Phosphorous Cycle
 the Phosphorous cycle takes millions of years.
-Minerals are released from rocks and salts into soil. 
+[[Minerals]] are released from rocks and salts into soil through erosion and mining.
 Plants can then use these inorganic molecules and convert them into usable nutrients, which then become available to consumers. 
-When consumers die, these phosphates can reform into [[rocks]] through sedimentary deposits.
+Eventually, the decomposition of animals brings phosphate into the soil
+Occasionally, too many phosphates in the soil can leech into the water, causign an algal bloom. This algae eventually 
+As the sediment collects, these phosphates can reform into [[rocks]] through sedimentary deposits, and be pushed up into a mountain range through [[Plate Tectonics]]. The cycle then starts over again. This process works on geologic time.
+
+# The Sulfur Cycle
+most of the earth's sulfur supply is underground in rocks and minerals. weathering, emmissions from seafloor vents, and volcanis erruptions can bring it to the surface. Burning Fossil fuels also releases a considerable amount of sulfur. 
+
+Emissions of Sulfur in the atmosphere, produced by phytoplankton and anthropogenic influence can reflect sunlight, like a reverse greenhouse effect, which can actually cool the planet. 

@@ -1,5 +1,7 @@
 All Life on earth is connected in the **biosphere**, and different levelso of connection relate areas, individual species, and individual Animals
 
+Ecosystems can Vary tremendously based on geology, climate, and weather patterns. These variations can be classified into [[Biomes]]
+
 # Biosphere
 This Encompasses all life on earth, and the physical earth itself, including the water table and atmosphere
 

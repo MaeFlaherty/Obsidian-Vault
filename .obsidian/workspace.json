@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carbon, Nitrogen, and Water Cycles.md",
+                "file": "Biomes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Carbon, Nitrogen, and Water Cycles.md"
+                    "file": "Biomes.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Carbon, Nitrogen, and Water Cycles.md",
+                    "file": "Biomes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carbon, Nitrogen, and Water Cycles.md",
+                "file": "Biomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carbon, Nitrogen, and Water Cycles.md",
+                "file": "Biomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carbon, Nitrogen, and Water Cycles.md"
+                "file": "Biomes.md"
               }
             }
           },
@@ -245,12 +245,13 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Rocks.md",
-    "Carbon, Nitrogen, and Water Cycles.md",
+    "Biomes.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Ecosystems.md",
-    "Photosynthesis.md",
+    "Carbon, Nitrogen, and Water Cycles.md",
     "Minerals.md",
+    "Rocks.md",
+    "Photosynthesis.md",
     "Visible Light Spectrum.md",
     "Energy Spectrum.md",
     "Magma.md",
@@ -279,7 +280,6 @@
     "Alternating Series Test.md",
     "Graph Coloring.md",
     "Ratio Test.md",
-    "Integral Test.md",
     "Screenshot 2024-10-04 at 11.01.25 AM.png",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
