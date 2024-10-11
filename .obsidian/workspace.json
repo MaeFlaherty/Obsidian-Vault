@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law Of Conservation of Energy.md",
+                "file": "Ratio Test for Absolute convergence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Law Of Conservation of Energy.md"
+                    "file": "Ratio Test for Absolute convergence.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Law Of Conservation of Energy.md",
+                    "file": "Ratio Test for Absolute convergence.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law Of Conservation of Energy.md",
+                "file": "Ratio Test for Absolute convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law Of Conservation of Energy.md",
+                "file": "Ratio Test for Absolute convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law Of Conservation of Energy.md"
+                "file": "Ratio Test for Absolute convergence.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Law Of Conservation of Energy.md",
     "Energy.md",
     "Biomes.md",
     "Screenshot 2024-10-10 at 10.44.39 AM.png",
@@ -269,7 +270,6 @@
     "Pasted image 20241008144018.png",
     "new note for git.md",
     "GEO-101, Intro to Geology.md",
-    "Law Of Conservation of Energy.md",
     "CHEM-101, Intro to Chemistry.md",
     "ENVS-201 Plant and Animal Identification.md",
     "Series.md",
