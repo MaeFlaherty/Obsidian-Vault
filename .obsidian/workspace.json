@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ratio Test for Absolute convergence.md",
+                "file": "Energy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Ratio Test for Absolute convergence.md"
+                    "file": "Energy.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ratio Test for Absolute convergence.md",
+                    "file": "Energy.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ratio Test for Absolute convergence.md",
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ratio Test for Absolute convergence.md",
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ratio Test for Absolute convergence.md"
+                "file": "Energy.md"
               }
             }
           },
@@ -245,6 +245,10 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "CHEM-101, Intro to Chemistry.md",
+    "Visible Light Spectrum.md",
+    "Conditional Convergence.md",
+    "Ratio Test for Absolute convergence.md",
     "Law Of Conservation of Energy.md",
     "Energy.md",
     "Biomes.md",
@@ -256,7 +260,6 @@
     "Minerals.md",
     "Rocks.md",
     "Photosynthesis.md",
-    "Visible Light Spectrum.md",
     "Energy Spectrum.md",
     "Magma.md",
     "Earth's Structure.md",
@@ -270,7 +273,6 @@
     "Pasted image 20241008144018.png",
     "new note for git.md",
     "GEO-101, Intro to Geology.md",
-    "CHEM-101, Intro to Chemistry.md",
     "ENVS-201 Plant and Animal Identification.md",
     "Series.md",
     "MATH-123 Calculus 3.md",
@@ -279,7 +281,6 @@
     "Herbariums.md",
     "2024-10-01.md",
     "Alternating Series Test.md",
-    "Graph Coloring.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
