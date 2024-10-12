@@ -12,16 +12,25 @@
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2a57efbd33b4b15",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy.md",
+                "file": "International System of Units.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0889e861d00e1194",
@@ -38,7 +47,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Energy.md"
+                    "file": "International System of Units.md"
                   }
                 }
               }
@@ -54,7 +63,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Energy.md",
+                    "file": "International System of Units.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy.md",
+                "file": "International System of Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy.md",
+                "file": "International System of Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy.md"
+                "file": "International System of Units.md"
               }
             }
           },
@@ -243,14 +252,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5ec5ab56cbc13b",
+  "active": "f2a57efbd33b4b15",
   "lastOpenFiles": [
+    "IMG_0007.jpg",
+    "International System of Units.md",
+    "Energy.md",
     "CHEM-101, Intro to Chemistry.md",
     "Visible Light Spectrum.md",
     "Conditional Convergence.md",
     "Ratio Test for Absolute convergence.md",
     "Law Of Conservation of Energy.md",
-    "Energy.md",
     "Biomes.md",
     "Screenshot 2024-10-10 at 10.44.39 AM.png",
     "Screenshot 2024-10-10 at 10.44.01 AM.png",
@@ -279,8 +290,6 @@
     "Floral Structure Identification.md",
     "Environmental Science.md",
     "Herbariums.md",
-    "2024-10-01.md",
-    "Alternating Series Test.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
