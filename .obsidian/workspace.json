@@ -12,8 +12,13 @@
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CHEM-101, Intro to Chemistry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -29,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0889e861d00e1194",
@@ -47,7 +51,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "International System of Units.md"
+                    "file": "CHEM-101, Intro to Chemistry.md"
                   }
                 }
               }
@@ -63,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "International System of Units.md",
+                    "file": "CHEM-101, Intro to Chemistry.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -178,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "International System of Units.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "International System of Units.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "International System of Units.md"
+                "file": "CHEM-101, Intro to Chemistry.md"
               }
             }
           },
@@ -252,13 +256,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a57efbd33b4b15",
+  "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Pasted image 20241011215909.png",
-    "IMG_0007.jpg",
-    "International System of Units.md",
     "Energy.md",
     "CHEM-101, Intro to Chemistry.md",
+    "The Atomic Theory.md",
+    "International System of Units.md",
+    "Pasted image 20241011215909.png",
+    "IMG_0007.jpg",
     "Visible Light Spectrum.md",
     "Conditional Convergence.md",
     "Ratio Test for Absolute convergence.md",
@@ -281,7 +286,6 @@
     "Screenshot 2024-10-08 at 2.44.46 PM.png",
     "Screenshot 2024-10-08 at 2.44.10 PM 1.png",
     "Screenshot 2024-10-08 at 2.44.10 PM.png",
-    "Screenshot 2024-10-08 at 2.43.47 PM.png",
     "new note for git.md",
     "GEO-101, Intro to Geology.md",
     "ENVS-201 Plant and Animal Identification.md",
