@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md",
+                "file": "Matter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "CHEM-101, Intro to Chemistry.md"
+                    "file": "Matter.md"
                   }
                 }
               }
@@ -67,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CHEM-101, Intro to Chemistry.md",
+                    "file": "Matter.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md",
+                "file": "Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md",
+                "file": "Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md"
+                "file": "Matter.md"
               }
             }
           },
@@ -258,8 +258,9 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Energy.md",
     "CHEM-101, Intro to Chemistry.md",
+    "Matter.md",
+    "Energy.md",
     "The Atomic Theory.md",
     "International System of Units.md",
     "Pasted image 20241011215909.png",
@@ -293,7 +294,6 @@
     "MATH-123 Calculus 3.md",
     "Floral Structure Identification.md",
     "Environmental Science.md",
-    "Herbariums.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
