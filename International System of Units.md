@@ -18,4 +18,4 @@ $$12.5*\frac{2.54cm}{1}=31.75cm$$
 To convert down, simply multiply by the reciprocal
 $$3.8*\frac{1in}{2.54cm}=12.5$$
 
-dimensional analysis takes the form of $$xu_1*\frac{u_2}{u_1}=xu_2 $$
+dimensional analysis takes the form of $$xu_1*\frac{u_2}{u_1}=xu_2$$
