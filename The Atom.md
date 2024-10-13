@@ -49,10 +49,13 @@ and
 z= Atomic Number
 
 #### Natural Abundance
-Different atoms have different amounts of naturally occurring Isotopes. We can record the proportion of these isotopes to each other through natural abundance, which is a simple weighted average.
+Different atoms have different amounts of naturally occurring Isotopes. We can use the proportion of these isotopes to each other to calculate an element's natural atomic mass, which is a simple weighted average.
+
+Average atomic mass = (mass of isotope 1 x abundance of isotope 1) + (mass of isotope 2 x abundance of isotope 2)
 
 
 ### What is an Ion?
+When an atom of a given element loses or gains electrons, it becomes charged, and is called an **ion**. 
 
 
 
