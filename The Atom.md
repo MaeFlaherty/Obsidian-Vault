@@ -23,18 +23,26 @@ This model was partially accurate, but it was later discovered that atoms could 
 - Most a of an atom's volume is empty space, throughout which small, negatively charged **electrons** orbit the nucleus
 - there are as many negatively charged electrons orbiting the atom as there are positively charged **protons** in the nucleus. 
 
-
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons
-Protons are positively charged subatomic particles that exist in the Nucleus
+Protons are **positively charged** subatomic particles that exist in the Nucleus
 The number of protons in the atom defines what [[Element]] that atom is
 ## Neutrons
-A neutron is a neutrally charged particle that esists in the nucleus of an atom. Typically, an atom has an equal number of protons and neutrons, unless it is an isotope.
+A neutron is a **neutrally charged** particle that esists in the nucleus of an atom. Typically, an atom has an equal number of protons and neutrons, unless it is an isotope.
 Neutrons hold the nucleus together with the **Strong Nuclear Force**
 ## Electrons
+An Electron is a negatively charged particle, with an atomic mass close to 0.
+Electrons orbit the nucleus, held in place by the **weak nuclear force**, and can be closer or farther from the nucleus, depending on energy level.
+An atom can gain or lose electrons, becoming an **ion**
 
 ## Isotopes and Ions
+
+### What Is an Isotope?
+
+### What is an Ion?
+
+
 
 ## Chemical vs nuclear Reactions
 A **Chemical Reaction** involves a stable nucleus reacting with other stable atoms. For this reason, and stable isotope of a given element will behave the same in a chemical reaction
