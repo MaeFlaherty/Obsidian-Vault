@@ -1,8 +1,9 @@
 # What is an Atom?
-
+The Modern Atomic Theory was defined by John Dalton in 1904, based on 3  Natural Laws. 
 ## Law of Conservation of Mass
-
+In a Chemical reaction, Matter is neither Created nor destroyed.
 ## Law of Definite Proportions
+All samples of a given compound, regardless of their source, have the same proportion of their constituent Elements.
 
 ## Law of Multiple Proportions
 

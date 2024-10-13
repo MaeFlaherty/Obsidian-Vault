@@ -25,15 +25,20 @@ A gas' particles are only weakly attracted to each other, causing a high degree 
 # Elements, Compounds, and Mixtures
 
 ## What is the difference between a Pure Substance and a Mixture?
+A **Pure Substance** is made up of only one type of particle. A mixture is made up of multiple particles, whether homogenous or heterogenous
 
-## Element
+## Pure Substances 
+### Element
+An element is a substance that cannot be broken down into smaller parts(Excluding subatomic particles)
+### Compound
+A Compound is made up of uniform particles that consist of 2 or more elements, in varying amounts but the same proportion throughout. For Example, H2O or CO2 are both Compounds. 
 
-## Compound
-
-## Mixture 
+## Mixtures
 ### Heterogenous Mixtures
+A vegetable stew has distinguishable chunks which are observably different from each other, suspended in broth.
 
 ### Homogenous Mixtures
+Tea is made up of both water, alkaloids, and bits of organic material, but it appears to be one uniform substance
 
 
 
