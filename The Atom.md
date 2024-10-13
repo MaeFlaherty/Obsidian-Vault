@@ -39,6 +39,18 @@ An atom can gain or lose electrons, becoming an **ion**
 ## Isotopes and Ions
 
 ### What Is an Isotope?
+When the number of neutrons in a given atom does not match the number of protons, that atom is called an **isotope**. This disproves part of daltons model, as all atoms of a given element do not have the same mass
+
+#### What is the notation for an isotope?
+$${}^{a}_{z}X$$
+where 
+A= total atomic mass
+and
+z= Atomic Number
+
+#### Natural Abundance
+Different atoms have different amounts of naturally occurring Isotopes. We can record the proportion of these isotopes to each other through natural abundance, which is a simple weighted average.
+
 
 ### What is an Ion?
 
