@@ -1,4 +1,7 @@
 Matter is anything that takes up space and has mass
+- Matter is particulate, made up of 
+[[The Atom]]
+
 # What are the states of matter?
 
 ## Solid
