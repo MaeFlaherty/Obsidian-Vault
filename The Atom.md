@@ -57,6 +57,8 @@ Average atomic mass = (mass of isotope 1 x abundance of isotope 1) + (mass of is
 ### What is an Ion?
 When an atom of a given element loses or gains electrons, it becomes charged, and is called an **ion**. 
 
+Positively sharged ions are called **cations**, and have **fewer** electrons than protons
+negatively charged ions are called **anions**, and have **more** electrons than protons. 
 
 
 ## Chemical vs nuclear Reactions
@@ -74,6 +76,8 @@ Electron = 0.00055amu
 # The Mole
 Avogadro's Number/The mole
 $$6.02*10^{23}$$ The average atomic mass of one atom of an element is the **same** as the average molar mass of that substance. 
+
+x amu = xg/mol of that element
 
 # What is the origin of the Atom?
 [[Earth's Origins]]
