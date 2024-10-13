@@ -6,7 +6,7 @@ In a Chemical reaction, Matter is neither Created nor destroyed.
 All samples of a given compound, regardless of their source, have the same proportion of their constituent Elements.
 
 ## Law of Multiple Proportions
-
+When 2 Elements form 2 different compounds, the masses of Element B that combine with a fixed mass(1g) of Element A can be expressed by a ratio of small whole numbers. 
 
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
