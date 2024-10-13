@@ -9,7 +9,7 @@ The atom is the basic particle that composes all normal matter
 We can classify matter both by
 - Substance: A Specific instance of matter is a **substance** (Water, Sand, etc.)
 - State: State describes a few basic properties of mater, and how particles of a given substance relate to each other(Solid, Liquid, or Gas)
-- Composition: this describes what the matter is made up of. What [[Elements]] make up the particles, and what particles make up the matter?
+- Composition: this describes what the matter is made up of. What [[Element]] make up the particles, and what particles make up the matter?
 # What are the states of matter?
 
 ## Solid

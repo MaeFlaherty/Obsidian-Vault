@@ -27,9 +27,11 @@ This model was partially accurate, but it was later discovered that atoms could 
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons
-
+Protons are positively charged subatomic particles that exist in the Nucleus
+The number of protons in the atom defines what [[Element]] that atom is
 ## Neutrons
-
+A neutron is a neutrally charged particle that esists in the nucleus of an atom. Typically, an atom has an equal number of protons and neutrons, unless it is an isotope.
+Neutrons hold the nucleus together with the **Strong Nuclear Force**
 ## Electrons
 
 ## Isotopes and Ions
