@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy.md",
+                "file": "Wave Behavior.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Energy.md"
+                    "file": "Wave Behavior.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Energy.md",
+                    "file": "Wave Behavior.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy.md",
+                "file": "Wave Behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy.md",
+                "file": "Wave Behavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy.md"
+                "file": "Wave Behavior.md"
               }
             }
           },
@@ -246,10 +246,12 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Energy.md",
+    "Wave Behavior.md",
+    "Light as a Wave.md",
     "Pasted image 20241014114438.png",
     "Pasted image 20241014114301.png",
     "Law Of Conservation of Energy.md",
-    "Energy.md",
     "CHEM-101, Intro to Chemistry.md",
     "A Note On Note Taking.md",
     "International System of Units.md",
@@ -279,9 +281,7 @@
     "Screenshot 2024-10-08 at 2.45.01 PM.png",
     "Screenshot 2024-10-08 at 2.44.54 PM.png",
     "Screenshot 2024-10-08 at 2.44.46 PM.png",
-    "Screenshot 2024-10-08 at 2.44.10 PM 1.png",
     "new note for git.md",
-    "GEO-101, Intro to Geology.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",

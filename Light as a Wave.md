@@ -1,13 +1,5 @@
-# What Is Energy?
-This is just as difficult a question as defining [[Matter]] If not more so. for now, lets focus on Light, a form of electromagnetic energy.
-# Electromagnetic Energy
----
-## The nature of Light 
-Light, a form of electromagnetic radiation, 
-Light can be represented in 2 different ways, either as a wave or as a particle. Neither of these are perfect analogies for the actual natural phenomenon, but through years of experimentation and testing, they map on to the behavior of light well enough to allow us to understand the natural world better. Importantly, light **cannot be observed as, or thought of, as a wave or a particle at the same time**.
 ## Light as a Wave
 When we think of light as a wave, there are 2 main characteristics to consider. the light's wavelength defines the **color** of that light, and the amplitude of the wave defines it's **brightness**.
-[[Wave Behavior]]
 
 ![[Pasted image 20241014114301.png]]
 
@@ -47,16 +39,3 @@ $\lambda = c/\nu$
 Humans can only see a small spectrum of all wavelengths of electromagnetic energy. Every color we can see exists within a band of wavelengths from about 400 - 750(violet to red)
 ### Electromagnetic Spectrum
 ![[Pasted image 20241008133533.png]]
-
-## How is Energy Transmitted Electromagnetically
-Max Planck discovered that energy is quantized, or that it can only be transferred in certain amounts. a **Quantum** is the smallest unit of energy that can be transferred. 
-
-For any Electromagnetic wave
-### Light as a particle
-
-
-[[Law Of Conservation of Energy]]
-
-
-# Related
-
