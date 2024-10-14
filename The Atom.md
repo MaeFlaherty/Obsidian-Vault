@@ -1,16 +1,24 @@
 # What is an Atom?
 This question has been asked, answered, and argued over for over 2000 years.
 
-The Modern Atomic Theory was defined by John Dalton in 1904, based on 3  Natural Laws. 
-## Law of Conservation of Mass
-In a Chemical reaction, Matter is neither Created nor destroyed.
-## Law of Definite Proportions
-All samples of a given compound, regardless of their source, have the same proportion of their constituent Elements.
+# Historic Models of the Atom
+The Model of the atom has gone through many different models to progress to the current quantum mechanical model
 
-## Law of Multiple Proportions
-When 2 Elements form 2 different compounds, the masses of Element B that combine with a fixed mass(1g) of Element A can be expressed by a ratio of small whole numbers. 
+## Democritus' Solid Sphere Model
+The first, fundamental description of an atom came from the greek philosopher Democritus in 400 B.C.E. He posited that the world was made up of infinitesimally tiny, solid spheres called atoms. These atoms varied in shape, size, mass, position, and arrangement, but they were indestructible and unchangeable. They make up the world and cannot be divided further.
 
 ## Dalton's Atomic Theory
+Modern Atomic Theory was defined by John Dalton in 1904, based on 3  Natural Laws. 
+
+### Law of Conservation of Mass
+In a Chemical reaction, Matter is neither Created nor destroyed.
+### Law of Definite Proportions
+All samples of a given compound, regardless of their source, have the same proportion of their constituent Elements.
+
+### Law of Multiple Proportions
+When 2 Elements form 2 different compounds, the masses of Element B that combine with a fixed mass(1g) of Element A can be expressed by a ratio of small whole numbers. 
+
+
 - Each Element is composed of tiny, indestructible particles called atoms. 
 - all atoms of a given element have the same mass and properties of all other atoms of that element.
 - Atoms combine in simple, whole number rations to form compounds. 
@@ -22,6 +30,10 @@ This model was partially accurate, but it was later discovered that atoms could 
 - Most of an atom's mass is contained in a dense inner core called the nucleus
 - Most a of an atom's volume is empty space, throughout which small, negatively charged **electrons** orbit the nucleus
 - there are as many negatively charged electrons orbiting the atom as there are positively charged **protons** in the nucleus. 
+## Bohr's model of the Atom
+After The discovery of [[Energy#Light as a particle]], Niels Bohr 
+
+# The Quantum Mechanical Model of the Atom
 
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons

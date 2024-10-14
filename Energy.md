@@ -80,10 +80,11 @@ Increasing the intensity of this beam simply means more photons are hitting the 
 $$hv=\phi$$ so the kinetic energy of the ejected electron will be the energy of the photon minus the binding energy
 $$KE=h\nu-\phi$$
 The Energy released by a photon = the Energy absorbed by the electron, known as the Law of Conservation of Energy
+## The wave-particle duality
+For models used for the photoelectric effect, it makes more sense to look at light as a particle stream, but in other classical physics problems, it makes more sense to look at light as a wave. Both of these models are useful, as long as we keep them separate. Light cannot be observed simultaneously as a particle stream and a wave, only one or the other.
 
-
-# The wave-particle duality
-
+## Spectroscopy and the Bohr Model
+[[The Atom]]
 
 # Related
 
