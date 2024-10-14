@@ -15,7 +15,7 @@ before diving into the chapter, skim over all of the subchapter names, headings,
 read one page of the textbook at a time, but don't take any notes yet!! just allow your brain to absorb the information and new concepts
 
 ### 3. Close the book
-Ok, now its time to take notes. but before you do, **close the book!!** that sounds counterproductive, i know, but by simply writing down everything you remember from that page, you are using your brain's retrieval system, which is how you start actually making things stick in your head. It also makes it more likely for you to explain concepts in your own words, rather than blindly copying things from the book and having to reread when you forget them. 
+Ok, now its time to take notes, but before you do, **close the book!!** that sounds counterproductive, i know, but by simply writing down everything you remember from that page, you are using your brain's retrieval system, which is how you start actually making things stick in your head. It also makes it more likely for you to explain concepts in your own words, rather than blindly copying things from the book and having to reread when you forget them. 
 
 ### 4. Check the book
 Do one final skim of the book, and make sure you didn't miss anything during your recall. then, rinse and repeat!

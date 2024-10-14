@@ -1,5 +1,8 @@
+# What Is Energy?
+This is just as difficult a question as defining [[Matter]] If not more so
 # Electromagnetic Energy
 ---
+
 ## Wavelengths and Frequencies
 Electromagnetic Radiation is a form of energy transport. Electromagnetic radiation takes the form of a sinusoidal wave. The electric and magnetic fields are perpendicular to each other, and travel together at the same time.
 
