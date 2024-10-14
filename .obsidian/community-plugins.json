@@ -2,5 +2,9 @@
   "obsidian-mind-map",
   "obsidian-relative-line-numbers",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "highlightr-plugin",
+  "obsidian-pandoc",
+  "templater-obsidian"
 ]
