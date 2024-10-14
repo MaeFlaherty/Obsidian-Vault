@@ -15,5 +15,5 @@ chlorophyl absorbs light, and consumes water in a light sensitive reaction, prod
 ATP produced by chlorophyl is used to produced sugars in the calvin cycle, using $CO_2$ to produce glucose that the plant can move around, store, and break down for energy later. this is why plants act as a carbon sink!
 
 # Related
-[[Visible Light Spectrum]]
+[[Energy#Visible Light Spectrum]]
 [[Energy]]

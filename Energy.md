@@ -48,15 +48,32 @@ Humans can only see a small spectrum of all wavelengths of electromagnetic energ
 ### Electromagnetic Spectrum
 ![[Pasted image 20241008133533.png]]
 
-## How is Energy Transmitted Electromagnetically
-Max Planck discovered that energy is quantized, or that it can only be transferred in certain amounts. a **Quantum** is the smallest unit of energy that can be transferred. 
 
-For any Electromagnetic wave
-### Light as a particle
+## Light as a particle
 before the 1900s, light was only thought of as a wave, but there were a few problems with this theory.
 
+# Photoelectric Effect
 
-![[Law Of Conservation of Energy]]
+the emission of electrons by metals when light of certain Energy interacts with their surface.
+
+Light of a set frequency kicks out electrons out of metal atoms, but this frequency is quantized, meaning only frequencies past a certain threshold are capable of causing metal to emit these electrons. This presented problems for the wave theory of electromagnetic energy.
+
+Since in the wave model, the only thing that should matter for expelling electrons is the intensity of the light(amplitude of the wave). However, High Frequency, low intensity light produced electrons from the metal with no lag time to build up energy. Below a threshold, no amount of light under a certain frequency will dislodge any electrons.
+
+This led to Einstein's theory that electron levels are **Quantized**. Essentially, the light can be thought of as a stream of particles(photons) in this context, rather than a wave. The amount of energy in a photon depends on it's frequency.
+$$E=h\nu$$
+
+$h=6.626*10^{34}$
+known as Planck's Constant
+
+Because of the relationship of frequency and wavelength, this also means that
+$$E=\frac{hc}{\lambda}$$
+
+## How is Energy Transmitted Electromagnetically
+
+Max Planck discovered that energy is quantized, or that it can only be transferred in certain amounts. a **Quantum** is the smallest unit of energy that can be transferred.
+
+The Energy released by a photon = the Energy absorbed by the electron, known as the Law of Conservation of Energy
 
 
 # Related
