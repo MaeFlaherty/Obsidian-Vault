@@ -83,11 +83,16 @@ The Energy released by a photon = the Energy absorbed by the electron, known as 
 ## The wave-particle duality
 For models used for the photoelectric effect, it makes more sense to look at light as a particle stream, but in other classical physics problems, it makes more sense to look at light as a wave. Both of these models are useful, as long as we keep them separate. Light cannot be observed simultaneously as a particle stream and a wave, only one or the other.
 
-## Spectroscopy and the Bohr Model
-[[The Atom]]
+## Spectroscopy and Electron Transitions
+### Energy Transitions
+Using [[The Atom#Bohr's model of the Atom]], we know that electrons can become excited and transition to higher orbits when exposed to electromagnetic energy. As these electrons relax, they emit electromagnetic radiation. When this principle is applied to electrically heated gasses, like hydrogen and mercury, each gas produces a unique spectrum of visible light.
 
-## Energy Transitions
-Using [[The Atom#Bohr's model of the Atom]], 
+![[Pasted image 20241014143926.png]]
+
+These energy transitions have a large threshold from ring 1 to ring 2, and this threshold gets exponentially smaller as the rings go up. **The transitions between orbitals that are further apart in energy produce light that is higher in energy, and shorter in wavelength**. 
+![[Pasted image 20241014144320.png]]
+### Absorption Vs Emission Spectra
+Heating a gas causes that gas to emit photons, known as an emission spectrum. However, shining a white light, which contains the full visible light spectrum, at a gas, and observing which colors are reflected and which are absorbed, will show the same colored bands as dark spots in the full spectrum. This is because the electrons in that gas are excited by and absorb the same spectra of light that they emit when relaxing.
 
 # Related
 

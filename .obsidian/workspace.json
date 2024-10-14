@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "The Atom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "GEO-101, Intro to Geology.md"
+                    "file": "The Atom.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "GEO-101, Intro to Geology.md",
+                    "file": "The Atom.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -92,7 +92,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.3779169828077167,
+                      "scale": 0.39355509080668427,
                       "close": true
                     }
                   }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "The Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "The Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEO-101, Intro to Geology.md"
+                "file": "The Atom.md"
               }
             }
           },
@@ -244,14 +244,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef5ec5ab56cbc13b",
+  "active": "bef812233e15851a",
   "lastOpenFiles": [
-    "GEO 101_F2024_syllabus(1).pdf",
     "CHEM-101, Intro to Chemistry.md",
-    "CHEM 101_Syllabus_F24.pdf",
     "Energy.md",
-    "The Atom.md",
+    "Pasted image 20241014144320.png",
+    "Pasted image 20241014143926.png",
     "Law Of Conservation of Energy.md",
+    "GEO-101, Intro to Geology.md",
+    "GEO 101_F2024_syllabus(1).pdf",
+    "CHEM 101_Syllabus_F24.pdf",
+    "The Atom.md",
     "Photosynthesis.md",
     "Visible Light Spectrum.md",
     "Wave Behavior.md",
@@ -273,7 +276,6 @@
     "Ratio Test for Absolute convergence.md",
     "Biomes.md",
     "Screenshot 2024-10-10 at 10.44.39 AM.png",
-    "Screenshot 2024-10-10 at 10.44.01 AM.png",
     "ENVS-101 Intro to Environmental Science.md",
     "Ecosystems.md",
     "Carbon, Nitrogen, and Water Cycles.md",
@@ -281,8 +283,6 @@
     "Rocks.md",
     "Energy Spectrum.md",
     "Magma.md",
-    "Earth's Structure.md",
-    "Pasted image 20241008145553.png",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
