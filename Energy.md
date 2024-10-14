@@ -52,7 +52,7 @@ Humans can only see a small spectrum of all wavelengths of electromagnetic energ
 ## Light as a particle
 before the 1900s, light was only thought of as a wave, but there were a few problems with this theory.
 
-# Photoelectric Effect
+### Photoelectric Effect
 
 the emission of electrons by metals when light of certain Energy interacts with their surface.
 
@@ -60,7 +60,7 @@ Light of a set frequency kicks out electrons out of metal atoms, but this freque
 
 Since in the wave model, the only thing that should matter for expelling electrons is the intensity of the light(amplitude of the wave). However, High Frequency, low intensity light produced electrons from the metal with no lag time to build up energy. Below a threshold, no amount of light under a certain frequency will dislodge any electrons.
 
-This led to Einstein's theory that electron levels are **Quantized**. Essentially, the light can be thought of as a stream of particles(photons) in this context, rather than a wave. The amount of energy in a photon depends on it's frequency.
+This led to Einstein's theory that Light is not a wave, but a particle. Essentially, the light can be thought of as a stream of particles(photons) in this context, rather than a wave. The amount of energy in a photon depends on it's frequency.
 $$E=h\nu$$
 
 $h=6.626*10^{34}$
@@ -69,11 +69,20 @@ known as Planck's Constant
 Because of the relationship of frequency and wavelength, this also means that
 $$E=\frac{hc}{\lambda}$$
 
-## How is Energy Transmitted Electromagnetically
+#### Does a longer wavelength have higher or lower energy?
+Lower! a higher frequency is directly proportional to higher energy, while a longer wavelength is inversely proportional.
+
+### How is Energy Transmitted Electromagnetically
 
 Max Planck discovered that energy is quantized, or that it can only be transferred in certain amounts. a **Quantum** is the smallest unit of energy that can be transferred.
 
+Increasing the intensity of this beam simply means more photons are hitting the metal, but no one photon meets the energy threshold to eject the electron. in creasing the frequency will raise the energy of the individual photons to a point where they meet the energy threshold to eject an electron(the binding energy). 
+$$hv=\phi$$ so the kinetic energy of the ejected electron will be the energy of the photon minus the binding energy
+$$KE=h\nu-\phi$$
 The Energy released by a photon = the Energy absorbed by the electron, known as the Law of Conservation of Energy
+
+
+# The wave-particle duality
 
 
 # Related
