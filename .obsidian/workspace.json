@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wave Behavior.md",
+                "file": "Law Of Conservation of Energy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Wave Behavior.md"
+                    "file": "Law Of Conservation of Energy.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Wave Behavior.md",
+                    "file": "Law Of Conservation of Energy.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wave Behavior.md",
+                "file": "Law Of Conservation of Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wave Behavior.md",
+                "file": "Law Of Conservation of Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wave Behavior.md"
+                "file": "Law Of Conservation of Energy.md"
               }
             }
           },
@@ -246,9 +246,11 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
-    "Pasted image 20241014121549.png",
     "Energy.md",
     "Wave Behavior.md",
+    "Pasted image 20241014125006.png",
+    "Pasted image 20241014124600.png",
+    "Pasted image 20241014121549.png",
     "Light as a Wave.md",
     "Pasted image 20241014114438.png",
     "Pasted image 20241014114301.png",
@@ -279,9 +281,6 @@
     "Magma.md",
     "Earth's Structure.md",
     "Pasted image 20241008145553.png",
-    "Screenshot 2024-10-08 at 2.45.01 PM.png",
-    "Screenshot 2024-10-08 at 2.44.54 PM.png",
-    "Screenshot 2024-10-08 at 2.44.46 PM.png",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",

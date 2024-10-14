@@ -26,3 +26,10 @@ When 2 waves are in *phase* with each other(Their peaks and troughs are aligned 
 If 2 waves are completely *out of phase* with each other(their peaks and troughs are opposite of each other) they cancel each other out and stop the wave.
 
 ## Diffraction
+
+When a wave encounters a barrier with a slit comparable in size to it's wavelength, it bends around it. Think of the lens of a projector taking in a stream of light and spreading it out over a large movie screen. 
+![[Pasted image 20241014125006.png]]
+*Diffraction in water*
+### Diffraction Pattern
+![[Pasted image 20241014124600.png]]
+When a beam of light passes through 2 small slits, the distance of the beam's wavelength apart, the resulting diffracted waves on the other end will show a striped diffraction pattern, with the image in the very center being in sync, and therefore brighter, and the image differing by $\lambda/2$ being cancelled by destructive interference, appearing black. An Extended version of this principle is how analog camera and projector technology works. 

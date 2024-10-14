@@ -53,6 +53,7 @@ Max Planck discovered that energy is quantized, or that it can only be transferr
 
 For any Electromagnetic wave
 ### Light as a particle
+before the 1900s, light was only thought of as a wave, but there were a few problems with this theory.
 
 
 [[Law Of Conservation of Energy]]
