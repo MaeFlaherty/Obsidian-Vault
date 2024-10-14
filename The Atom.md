@@ -31,7 +31,12 @@ This model was partially accurate, but it was later discovered that atoms could 
 - Most a of an atom's volume is empty space, throughout which small, negatively charged **electrons** orbit the nucleus
 - there are as many negatively charged electrons orbiting the atom as there are positively charged **protons** in the nucleus. 
 ## Bohr's model of the Atom
-After The discovery of [[Energy#Light as a particle]], Niels Bohr 
+After The discovery of [[Energy#Light as a particle]], Niels Bohr developed a new model for the atom. 
+- electrons did not orbit the atom freely, as in Rutherford's model, but were **quantized** to specific, fixed energy levels around the nucleus. 
+- electrons could change energy levels when excited, but did so instantly, never being observed in a state between these  energy levels.
+- When Electrons were excited, the atom absorbed energy. 
+- As Electrons relaxed, they emitted electromagnetic energy in the form of photons. 
+- no electromagnetic radiation is emitted by an electron orbiting in a stationary state. radiation was only emitted when 
 
 # The Quantum Mechanical Model of the Atom
 

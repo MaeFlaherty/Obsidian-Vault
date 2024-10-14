@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atom.md",
+                "file": "GEO-101, Intro to Geology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Atom.md"
+                    "file": "GEO-101, Intro to Geology.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Atom.md",
+                    "file": "GEO-101, Intro to Geology.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "GEO-101, Intro to Geology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "GEO-101, Intro to Geology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "GEO-101, Intro to Geology.md"
               }
             }
           },
@@ -246,7 +246,11 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "GEO 101_F2024_syllabus(1).pdf",
+    "CHEM-101, Intro to Chemistry.md",
+    "CHEM 101_Syllabus_F24.pdf",
     "Energy.md",
+    "The Atom.md",
     "Law Of Conservation of Energy.md",
     "Photosynthesis.md",
     "Visible Light Spectrum.md",
@@ -257,12 +261,10 @@
     "Light as a Wave.md",
     "Pasted image 20241014114438.png",
     "Pasted image 20241014114301.png",
-    "CHEM-101, Intro to Chemistry.md",
     "A Note On Note Taking.md",
     "International System of Units.md",
     "Floral Structure Identification.md",
     "ENVS-201 Plant and Animal Identification.md",
-    "The Atom.md",
     "Element.md",
     "Matter.md",
     "Pasted image 20241011215909.png",

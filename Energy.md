@@ -86,5 +86,8 @@ For models used for the photoelectric effect, it makes more sense to look at lig
 ## Spectroscopy and the Bohr Model
 [[The Atom]]
 
+## Energy Transitions
+Using [[The Atom#Bohr's model of the Atom]], 
+
 # Related
 
