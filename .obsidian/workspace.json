@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy.md",
+                "file": "A Note On Note Taking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Energy.md"
+                    "file": "A Note On Note Taking.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Energy.md",
+                    "file": "A Note On Note Taking.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy.md",
+                "file": "A Note On Note Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy.md",
+                "file": "A Note On Note Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy.md"
+                "file": "A Note On Note Taking.md"
               }
             }
           },
@@ -246,6 +246,7 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Energy.md",
     "Law Of Conservation of Energy.md",
     "International System of Units.md",
     "Visible Light Spectrum.md",
@@ -255,7 +256,6 @@
     "Element.md",
     "Matter.md",
     "CHEM-101, Intro to Chemistry.md",
-    "Energy.md",
     "Pasted image 20241011215909.png",
     "IMG_0007.jpg",
     "Conditional Convergence.md",
