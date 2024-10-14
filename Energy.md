@@ -56,7 +56,7 @@ For any Electromagnetic wave
 before the 1900s, light was only thought of as a wave, but there were a few problems with this theory.
 
 
-[[Law Of Conservation of Energy]]
+![[Law Of Conservation of Energy]]
 
 
 # Related

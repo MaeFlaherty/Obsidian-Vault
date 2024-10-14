@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law Of Conservation of Energy.md",
+                "file": "Energy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Law Of Conservation of Energy.md"
+                    "file": "Energy.md"
                   }
                 }
               }
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Law Of Conservation of Energy.md",
+                    "file": "Energy.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law Of Conservation of Energy.md",
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law Of Conservation of Energy.md",
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law Of Conservation of Energy.md"
+                "file": "Energy.md"
               }
             }
           },
@@ -246,6 +246,7 @@
   },
   "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Law Of Conservation of Energy.md",
     "Energy.md",
     "Wave Behavior.md",
     "Pasted image 20241014125006.png",
@@ -254,7 +255,6 @@
     "Light as a Wave.md",
     "Pasted image 20241014114438.png",
     "Pasted image 20241014114301.png",
-    "Law Of Conservation of Energy.md",
     "CHEM-101, Intro to Chemistry.md",
     "A Note On Note Taking.md",
     "International System of Units.md",
