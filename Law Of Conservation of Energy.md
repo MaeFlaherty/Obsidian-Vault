@@ -7,7 +7,7 @@ The fact that light can interact with electrons, which have mass, means that lig
 
 The Energy released by a photon = the Energy absorbed by the electron, known as the Law of Conservation of Energy
 
-Light is not a wave, but a stream of photons
+in this context, Light is not a wave, but a stream of photons
 
 the energy of a photon = $h\nu = hc/\lambda$ 
 $c = 3.00 * 10^8$
