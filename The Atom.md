@@ -61,7 +61,15 @@ Appear in groups of 7 equivalents
 
 
 1-3-5-7, like a major 7th chord!
+
 These orbitals occur in all atoms, even if there are not enough electrons to fill them. 
+
+## Distribution of Electrons along an atomic orbital
+like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled.
+## Notation for Electron Arrangment in Atoms
+The SPDF notation uses numbers to designate a principal shell and the letters to identify a sub-shell
+
+$$1s^2$$
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons
