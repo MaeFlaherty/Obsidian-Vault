@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Igneous Rock.md",
+                "file": "GEO-101, Intro to Geology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Igneous Rock.md"
+                    "file": "GEO-101, Intro to Geology.md"
                   }
                 }
               }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Igneous Rock.md",
+                    "file": "GEO-101, Intro to Geology.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Igneous Rock.md",
+                "file": "GEO-101, Intro to Geology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Igneous Rock.md",
+                "file": "GEO-101, Intro to Geology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Igneous Rock.md"
+                "file": "GEO-101, Intro to Geology.md"
               }
             }
           },
@@ -264,6 +264,7 @@
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
     "Igneous Rock.md",
+    "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Rocks.md",
     "Magma.md",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
@@ -294,7 +295,6 @@
     "Visible Light Spectrum.md",
     "Pasted image 20241014125006.png",
     "Pasted image 20241014124600.png",
-    "Pasted image 20241014121549.png",
     "Light as a Wave.md",
     "A Note On Note Taking.md",
     "International System of Units.md",

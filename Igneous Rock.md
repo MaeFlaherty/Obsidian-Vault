@@ -29,30 +29,46 @@ Magma enters pre existing rock by either forcing it's way in, or percolating thr
 
 # Describing Igneous Rocks
 Igneous Rock are defined by texture and Mineral Composition
-
+![[Screenshot 2024-10-15 at 3.08.52 PM.png]]
 ## Texture
 reflects magma history and the way it cooled
 
+Texture can beclassified into 3 main groups, with some subgroups
+### Crystalline
+>**root word Aphanes - Invisible**
 
+**Aphanitic - Fine Grained**
+- Rapid cooling, extrusive
+- Crystals do not have time to grow
+- microscope needed to observe texture
+**Phaneritic - Coarse Grained**
+- Slow Cooling
+- Crystals have a long time to grow
+- Intrusive
+- grains are roughly equal in size
+### Fragmental
+
+### Glassy
+- Very Silicate rich magma cools extremely quickly
+- Obsidian
 ## Mineral Composition
 reflects magma composition
 
 Igneous rocks are mainly composed of silicate minerals
 mineral composition is determined by the chemical composition of magma. 
-
-# Igneous Rock Classification
-## Igneous Classification
 ### Felsic
+- Minerals: Quartz, alkalai feldspar, plagioclase(Na - rich), biotite and amphibole
+- Sometimes appears as obsidian
 - Rich in Si(~70%), and makes up most of the continental crust.
 - Light Colored 
 ### Intermediate
 - Minerals: Pyroxene, Amphibole, plagioclase
-- Andesire and Diorite
+- Andesite and Diorite
 - ≥ 25% dark minerals
 
 ### Mafic
 - Minerals: Olivine and Plagioclase(Ca-rich)
-- Basalt(Aphanitic and Gabbro(Phaeneritic)
+- Basalt(Aphanitic) and Gabbro(Phaeneritic)
 - Denser and Darker Colored
 - Oceanic Crust and Volcanic Islands
 - Low viscosity lava flows on melt
