@@ -18,3 +18,6 @@ Some compounds are volatile, and can decrease the melting point of mantle rock. 
 - Different Mixes of elements yield different forms of magma
 ## Magma Variation
 Rocks are made up of different minerals with different melting points, and when melted, not everything in the rock dissolves completely. silicon rich minerals melt first, with silicon poor minerals melting last, or not melting at all, dependent on temperature. 
+
+# Difference between Magma and Lava
+Magma Becomes Lava once it reaches the earth's crust.
