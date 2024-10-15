@@ -13,8 +13,10 @@ cement can be carbonate, silicate, iron based, or a number of other types.
 **Crystalline Rocks** are heated together until different mineral crystals fuse together, then cool, becoming a single mass.
 ## Types of Rocks
 ![[Sedimentary rocks]]
+
 ![[Metamorphic Rock]]
-![[Igneous Rocks]]
+
+[[Igneous Rock]] - Igneous rocks form from mid ocean ridges and continental volcanos, with magma pushing up through the crust, erupting out of a volcano, and eventually cooling and solidifying into Igneous Rock. 
 # The Rock Cycle
  ![[Pasted image 20241008144018.png]]
 ## How are Rocks Formed?
