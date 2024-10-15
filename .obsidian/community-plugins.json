@@ -6,5 +6,7 @@
   "dataview",
   "highlightr-plugin",
   "obsidian-pandoc",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-outliner",
+  "pdf-plus"
 ]

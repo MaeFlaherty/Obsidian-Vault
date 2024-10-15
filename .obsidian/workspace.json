@@ -12,13 +12,8 @@
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biomes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -37,9 +32,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "Biomes.md"
-                  }
+                  "state": {}
                 }
               }
             ]
@@ -54,7 +47,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Biomes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -147,13 +139,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0455d238620c116b",
@@ -169,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biomes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,11 +227,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ef5ec5ab56cbc13b",
+  "active": "e36ebf5c5c143f9a",
   "lastOpenFiles": [
+    "Templates",
     "Biomes.md",
     "Floral Structure Identification.md",
     "The Atom.md",

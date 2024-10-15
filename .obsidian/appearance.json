@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "translucency": true
+  "translucency": true,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }
