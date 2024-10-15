@@ -9,12 +9,25 @@
         "dimension": 74.93188010899182,
         "children": [
           {
+            "id": "e86b4d6bfb6f290f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igneous Rocks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atom.md",
+                "file": "Igneous Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Atom.md"
+                    "file": "Igneous Rocks.md"
                   }
                 }
               }
@@ -56,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Atom.md",
+                    "file": "Igneous Rocks.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -94,7 +107,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.950490414521643,
+                      "scale": 0.8559679418068395,
                       "close": true
                     }
                   }
@@ -132,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hello",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "0455d238620c116b",
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "Igneous Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "Igneous Rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "Igneous Rocks.md"
               }
             }
           },
@@ -248,15 +260,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ef5ec5ab56cbc13b",
+  "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
+    "Magma.md",
+    "Igneous Rocks.md",
+    "Rocks.md",
+    "Sedimentary rocks.md",
+    "Metamorphic Rock.md",
+    "GEO-101, Intro to Geology.md",
+    "The Atom.md",
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",
     "Element.md",
     "CHEM-101, Intro to Chemistry.md",
     "PeriodicTableWallpaper-56a12d103df78cf7726827e8.png",
     "Pasted image 20241015125934.png",
-    "The Atom.md",
     "Wave Behavior.md",
     "Matter.md",
     "Energy.md",
@@ -269,7 +287,6 @@
     "Pasted image 20241014144320.png",
     "Pasted image 20241014143926.png",
     "Law Of Conservation of Energy.md",
-    "GEO-101, Intro to Geology.md",
     "GEO 101_F2024_syllabus(1).pdf",
     "CHEM 101_Syllabus_F24.pdf",
     "Visible Light Spectrum.md",
@@ -278,17 +295,12 @@
     "Pasted image 20241014121549.png",
     "Light as a Wave.md",
     "Pasted image 20241014114438.png",
-    "Pasted image 20241014114301.png",
     "A Note On Note Taking.md",
     "International System of Units.md",
     "ENVS-201 Plant and Animal Identification.md",
     "Conditional Convergence.md",
     "Ratio Test for Absolute convergence.md",
     "ENVS-101 Intro to Environmental Science.md",
-    "Ecosystems.md",
-    "Carbon, Nitrogen, and Water Cycles.md",
-    "Minerals.md",
-    "Rocks.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",

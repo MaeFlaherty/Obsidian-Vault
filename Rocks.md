@@ -12,22 +12,9 @@ cement can be carbonate, silicate, iron based, or a number of other types.
 
 **Crystalline Rocks** are heated together until different mineral crystals fuse together, then cool, becoming a single mass.
 ## Types of Rocks
-### Sedimentary rocks
-cementing together rock fragments by precipitation of mineral crystals out of water solutions, eg. in a riverbed over thousands of years.
-
-Sedimentary rocks form at passive margins, ocean shores where no subduction is occurring. Sediment from the ocean is deposited on the shore, where further layers are deposited on top, eventually compacting into sedimentary rock.
-
-Sedimentary rock can also be formed from erosion. as wind and water wears away at existing rocks and rock outcroppings, eventually collecting the sediment and transforming it into sedimentary rock. 
-
-### Igneous Rocks
-Form by the solidification of molten rock
-
-Igneous rocks form from mid ocean ridges and continental volcanos, with magma pushing up through the crust, erupting out of a volcano, and eventually cooling and solidifying into Igneous Rock. 
-
-### Metamorphic Rock
-Formed when preexisting rock is exposed to Heat or Pressure
-
-Metamorphic rocks are formed at continental plate barriers, where energy from the collision or divergence of plates stressed the rock, exposing it to heat and pressure, causing the rock that is already there to recrystallize into different types of rock. 
+![[Sedimentary rocks]]
+![[Metamorphic Rock]]
+![[Igneous Rocks]]
 # The Rock Cycle
  ![[Pasted image 20241008144018.png]]
 ## How are Rocks Formed?
