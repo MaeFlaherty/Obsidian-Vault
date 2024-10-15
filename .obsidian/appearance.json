@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#f0dfbb",
   "theme": "obsidian",
   "translucency": true,
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "Karla",
-  "textFontFamily": "Karla"
+  "interfaceFontFamily": "",
+  "textFontFamily": "SN Pro"
 }
