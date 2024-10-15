@@ -8,5 +8,8 @@
   "obsidian-pandoc",
   "templater-obsidian",
   "obsidian-outliner",
-  "pdf-plus"
+  "pdf-plus",
+  "obsidian-hider",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

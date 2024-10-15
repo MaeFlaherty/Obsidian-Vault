@@ -12,8 +12,13 @@
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -32,7 +37,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Matter.md"
+                  }
                 }
               }
             ]
@@ -47,6 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Matter.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -143,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0455d238620c116b",
@@ -159,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matter.md"
+              }
             }
           },
           {
@@ -223,7 +236,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
@@ -233,8 +245,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e36ebf5c5c143f9a",
+  "active": "ef5ec5ab56cbc13b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-15 11.01.27.excalidraw.md",
+    "Matter.md",
     "Templates",
     "Biomes.md",
     "Floral Structure Identification.md",
@@ -260,7 +274,6 @@
     "International System of Units.md",
     "ENVS-201 Plant and Animal Identification.md",
     "Element.md",
-    "Matter.md",
     "Pasted image 20241011215909.png",
     "IMG_0007.jpg",
     "Conditional Convergence.md",

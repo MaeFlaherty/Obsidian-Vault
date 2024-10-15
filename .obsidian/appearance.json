@@ -3,6 +3,6 @@
   "theme": "obsidian",
   "translucency": true,
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "interfaceFontFamily": "Karla",
+  "textFontFamily": "Karla"
 }
