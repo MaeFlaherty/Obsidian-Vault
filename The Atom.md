@@ -39,7 +39,29 @@ After The discovery of [[Energy#Light as a particle]], Niels Bohr developed a ne
 - no electromagnetic radiation is emitted by an electron orbiting in a stationary state. radiation was only emitted when 
 
 # The Quantum Mechanical Model of the Atom
+- Unlike the Bohr Model, electrons can move as waves and particles, and could be in a given zone of places at any one time. 
+- The probability of an electron can be calculated using Wave Equations
+- these zones of probability have a certain shape, known as **orbitals**
 
+## Types Of Orbitals
+![[Pasted image 20241015133356.png]]
+
+### S Orbital
+sphere
+only 1 sublevel
+### P Orbital
+of equal energy in $n=2$ and $n>2$ shells
+Equal probability to be on the x, y, or z axis of the nucleus
+Appear in groups of 3 equivalents
+### D Orbitals
+Appear in groups of 5 equivalents
+
+### F Orbitals
+Appear in groups of 7 equivalents
+
+
+1-3-5-7, like a major 7th chord!
+These orbitals occur in all atoms, even if there are not enough electrons to fill them. 
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons
@@ -52,6 +74,9 @@ Neutrons hold the nucleus together with the **Strong Nuclear Force**
 An Electron is a negatively charged particle, with an atomic mass close to 0.
 Electrons orbit the nucleus, held in place by the **weak nuclear force**, and can be closer or farther from the nucleus, depending on energy level.
 An atom can gain or lose electrons, becoming an **ion**
+
+### Electron Particle-Wave Duality
+Like [[Energy#The wave-particle duality|Light]], Electrons can behave both as a Wave and as a Particle. The Positions of These Electrons can 
 
 ## Isotopes and Ions
 
