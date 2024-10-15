@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "GEO-101, Intro to Geology.md"
+                    "file": "Rocks.md"
                   }
                 }
               }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "GEO-101, Intro to Geology.md",
+                    "file": "Rocks.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -107,7 +107,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.8559679418068395,
+                      "scale": 0.4002085741478355,
                       "close": true
                     }
                   }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "Rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEO-101, Intro to Geology.md"
+                "file": "Rocks.md"
               }
             }
           },
@@ -261,8 +261,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e86b4d6bfb6f290f",
+  "active": "bef812233e15851a",
   "lastOpenFiles": [
+    "GEO-101, Intro to Geology.md",
     "Igneous Rock.md",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Rocks.md",
@@ -270,7 +271,6 @@
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
     "Sedimentary rocks.md",
     "Metamorphic Rock.md",
-    "GEO-101, Intro to Geology.md",
     "The Atom.md",
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",
