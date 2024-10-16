@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Energy.md"
+                    "file": "CHEM-101, Intro to Chemistry.md"
                   }
                 }
               }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Energy.md",
+                    "file": "CHEM-101, Intro to Chemistry.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy.md"
+                "file": "CHEM-101, Intro to Chemistry.md"
               }
             }
           },
@@ -263,6 +263,7 @@
   },
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
+    "Energy.md",
     "The Atom.md",
     "CHEM-101, Intro to Chemistry.md",
     "Rocks.md",
@@ -280,7 +281,6 @@
     "Pasted image 20241015125934.png",
     "Wave Behavior.md",
     "Matter.md",
-    "Energy.md",
     "Photosynthesis.md",
     "Systems.md",
     "Excalidraw/Drawing 2024-10-15 11.01.27.excalidraw.md",
