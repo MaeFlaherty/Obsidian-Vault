@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atom.md",
+                "file": "Energy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Atom.md"
+                    "file": "Energy.md"
                   }
                 }
               }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Atom.md",
+                    "file": "Energy.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "Energy.md"
               }
             }
           },
@@ -263,6 +263,7 @@
   },
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
+    "The Atom.md",
     "CHEM-101, Intro to Chemistry.md",
     "Rocks.md",
     "GEO-101, Intro to Geology.md",
@@ -272,7 +273,6 @@
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
     "Sedimentary rocks.md",
     "Metamorphic Rock.md",
-    "The Atom.md",
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",
     "Element.md",

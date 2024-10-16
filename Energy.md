@@ -47,8 +47,6 @@ $\lambda = c/\nu$
 Humans can only see a small spectrum of all wavelengths of electromagnetic energy. Every color we can see exists within a band of wavelengths from about 400 - 750(violet to red)
 ### Electromagnetic Spectrum
 ![[Pasted image 20241008133533.png]]
-
-
 ## Light as a particle
 before the 1900s, light was only thought of as a wave, but there were a few problems with this theory.
 
