@@ -235,9 +235,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "049e1c7ff792480b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -258,10 +266,11 @@
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e86b4d6bfb6f290f",
+  "active": "049e1c7ff792480b",
   "lastOpenFiles": [
     "Energy.md",
     "The Atom.md",
