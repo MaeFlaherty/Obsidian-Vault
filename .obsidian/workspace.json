@@ -6,7 +6,7 @@
       {
         "id": "20b72ca457fa2bb1",
         "type": "tabs",
-        "dimension": 37.46594005449591,
+        "dimension": 59.91285403050109,
         "children": [
           {
             "id": "e86b4d6bfb6f290f",
@@ -37,29 +37,9 @@
         ]
       },
       {
-        "id": "277e8eb024fecf7d",
-        "type": "tabs",
-        "dimension": 37.46594005449591,
-        "children": [
-          {
-            "id": "6cf3f28594d57d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Periodic Table.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0889e861d00e1194",
         "type": "split",
-        "dimension": 25.068119891008173,
+        "dimension": 40.08714596949891,
         "children": [
           {
             "id": "92f57046e7b1dd3c",
@@ -72,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Periodic Table.md"
+                    "file": "The Atom.md"
                   }
                 }
               }
@@ -89,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Periodic Table.md",
+                    "file": "The Atom.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -204,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Periodic Table.md",
+                "file": "The Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Periodic Table.md",
+                "file": "The Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Periodic Table.md"
+                "file": "The Atom.md"
               }
             }
           },
@@ -290,11 +270,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6cf3f28594d57d0a",
+  "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
+    "The Periodic Table.md",
     "The Atom.md",
     "Pasted image 20241017111116.png",
-    "The Periodic Table.md",
     "CHEM-101, Intro to Chemistry.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Biodiversity.md",

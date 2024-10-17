@@ -43,19 +43,25 @@ After The discovery of [[Energy#Light as a particle]], Niels Bohr developed a ne
 - The probability of an electron can be calculated using Wave Equations
 - these zones of probability have a certain shape, known as **orbitals**
 
+## Quantum Numbers
+N=  integer, principal quantum number, energy of the electron in a given orbital 
+L = goes from 0 - (n-1), described the shape of the orbital
+
 ## Types Of Orbitals
 ![[Pasted image 20241016211827.png]]
 
 ### S Orbital
+l=0
 sphere
 only 1 sublevel
 ### P Orbital
+l=1
 of equal energy in $n=2$ and $n>2$ shells
 Equal probability to be on the x, y, or z axis of the nucleus
 Appear in groups of 3 equivalents
 ### D Orbitals
+ $l=2$
 appear in $n≥3$ 
-Quantum number $i=2$
 Appear in groups of 5 equivalents
 
 ### F Orbitals
@@ -68,8 +74,11 @@ Appear in groups of 7 equivalents
 
 These orbitals occur in all atoms, even if there are not enough electrons to fill them. 
 
+
 ## Distribution of Electrons along an atomic orbital
 like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled.
+
+
 ## Notation for Electron Arrangment in Atoms
 The SPDF notation uses numbers to designate a principal shell and the letters to identify a sub-shell
 
