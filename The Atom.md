@@ -98,7 +98,8 @@ Eg. The Electron Configuration for ${}_{73}Ta$
 $$[Xe], 6s^2, 6p^3$$
 
 ## Distribution of Electrons across an atomic orbital
-like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled.
+like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled. In addition to this, electrons in diagrams are shown as having the same spin until they start sharing orbitals. 
+![[Pasted image 20241017132318.png]]
 
 $1s^2, $
 
@@ -109,11 +110,16 @@ a push and pull between the attraction of the charged protons and the electrons,
 ## Electron Shielding
 Electron Shielding involves interaction between electrons on different energy levels and sublevels. 
 ![[Pasted image 20241017111116.png]]
-**core** electrons surround the nucleus, blocking **some of** the positive energy from the nucleus, and repelling valence electrons. 
+**core** electrons surround the nucleus, blocking **some of** the positive energy from the nucleus, and repelling valence electrons. This causes the outside(valence) electrons to have no effect on the effective nuclear charge. 
 
+When another **full** shell is formed around the core, it becomes part of the core.
 
-When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. 
+subtract the number of electrons in the inner rings from the atomic number to get the effective nuclear charge acting on the valence electrons. 
 
+## Electron Penetration
+When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. This happens because the "shells" are still just particles, and sometimes the orbits can overlap. 
+
+The Kinetic energy goes down, but the attraction to the nucleus(potential energy) goes up. This causes emission of radiation. 
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons

@@ -120,7 +120,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.1140811289605306,
+                      "scale": 0.891387676104534,
                       "close": true
                     }
                   }
@@ -283,13 +283,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bef812233e15851a",
+  "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
-    "README.md",
+    "CHEM-101, Intro to Chemistry.md",
     "The Atom.md",
+    "Pasted image 20241017132318.png",
+    "README.md",
     "The Periodic Table.md",
     "Pasted image 20241017111116.png",
-    "CHEM-101, Intro to Chemistry.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Biodiversity.md",
     "Ecosystems.md",
@@ -318,12 +319,10 @@
     "Templates",
     "Floral Structure Identification.md",
     "Pasted image 20241014144320.png",
-    "Pasted image 20241014143926.png",
     "Law Of Conservation of Energy.md",
     "GEO 101_F2024_syllabus(1).pdf",
     "CHEM 101_Syllabus_F24.pdf",
     "Visible Light Spectrum.md",
-    "Light as a Wave.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
