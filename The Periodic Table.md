@@ -1,6 +1,6 @@
 # The Periodic Table
 ![[PeriodicTableWallpaper-56a12d103df78cf7726827e8.png]]
-Created by Dimitri Mendelev th explain a number of observations about the properties of atoms. 
+Created by Dimitri Mendeleev to explain a number of observations about the properties of atoms. 
 # The Periodic Law
 When the elements are arranged in order of increasing atomic number, certain sets of properties appear periodically. 
 

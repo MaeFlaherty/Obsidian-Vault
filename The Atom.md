@@ -74,6 +74,10 @@ like people on a bus, electrons will pair together in an orbital only after all 
 The SPDF notation uses numbers to designate a principal shell and the letters to identify a sub-shell
 
 $$1s^2$$
+## Electron Shielding
+![[Pasted image 20241017111116.png]]
+The effect where **core** electrons surround the nucleus, blocking the positive energy and repelling valence electrons. When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. 
+
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons
@@ -86,6 +90,7 @@ Neutrons hold the nucleus together with the **Strong Nuclear Force**
 An Electron is a negatively charged particle, with an atomic mass close to 0.
 Electrons orbit the nucleus, held in place by the **weak nuclear force**, and can be closer or farther from the nucleus, depending on energy level.
 An atom can gain or lose electrons, becoming an **ion**
+
 
 ### Electron Particle-Wave Duality
 Like [[Energy#The wave-particle duality|Light]], Electrons can behave both as a Wave and as a Particle. The Positions of These Electrons can be probabilistically predicted, but not know, using the orbitals. 
