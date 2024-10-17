@@ -37,9 +37,69 @@ As eroded sediment gets older and transported around, it tumbles and degrades, g
 Smaller, rounder grains are considered to be more mature than larger, more angluar grains(like artificial sand made with a hammer versus highly eroded beach sand or clay.)
 
 ## Deposition
-settling out of the transporting fluid
+settling out of the transporting fluid and settling
+
+## Clastic Sedimentary Rock
+
+### Breccia
+Angular, Large Fragments
+Immature, little transport
+deposited close to clast source(under a cliff face)
+
+### Conglomerate
+coarse, rounded dark rock clasts
+deposited further from river than breccia(river channel)
+
+### Arkose
+sand and gravel with abundant feldspar
+Commonly deposited in alluvial fans 
+Feldspar indicates hort transport and arid conditions
+
+### Sandstone
+made of sand sized particles
+common in beach and dune settings
+quartz dominant element
+small particles can be transported by wind or water, found on beaches or in deserts. 
+
+### Silt and Clay
+form mudstone and shale
+deposited in quiet water settings(floodplains, mud flats, deep ocean)
+ 
+
 ## Lithification
 transformation into solid rock.(precipitation from water, etc.)
+
+How a rock goes from sediment to sedimentary rock
+
+### Compaction
+primarily caused by compaction - the increase of pressure and temperature.
+
+Pressure squeezes water out of sediment and encourages formation of mineral crystals
+Compaction goes in bands, forming **cement**(quartz or calcite), which glues the sediments together. 
+
+## Diagenesis
+Physical, Chemical, and biological changes to sediment
+
+**Bioturbation** changes caused by organisms burrowing into the seidment(crabs, sand worms)
+**Lithification**
+**Dissolution**
+**Mineral Precipitation**
+
+# Sedimentary Structures
+Features imparted to sediments at or near deposition
+- Bedding and Stratificaton
+- Surface Features on bedding layers(fossils)
+- Arrangement of grains within bedding layers
+All of these provide information about the conditions at sedimentation
+
+
+Sedimentary layers are usually layered or stratified
+arranged in planar, close to horizontal beds
+Tilt in stratification happens after lithification
+
+Current and Flow features
+Sometimes sedimentary rocks formed under water can show the currents of that water in ripple marks(you can step in the same river twice, as long as the rive)
+
 
 
 
