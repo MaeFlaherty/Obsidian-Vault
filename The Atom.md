@@ -54,15 +54,17 @@ of equal energy in $n=2$ and $n>2$ shells
 Equal probability to be on the x, y, or z axis of the nucleus
 Appear in groups of 3 equivalents
 ### D Orbitals
-appear in $n=3$ and greater, $i=2$
+appear in $n≥3$ 
+Quantum number $i=2$
 Appear in groups of 5 equivalents
 
 ### F Orbitals
-Quantum num
+$n ≥ 4$
+Quantum number $i=3$
 Appear in groups of 7 equivalents
 
 
-1-3-5-7, like a major 7th chord!
+1-3-5-7, like a major 7th chord!(Harmonic Series)
 
 These orbitals occur in all atoms, even if there are not enough electrons to fill them. 
 
@@ -87,6 +89,13 @@ An atom can gain or lose electrons, becoming an **ion**
 
 ### Electron Particle-Wave Duality
 Like [[Energy#The wave-particle duality|Light]], Electrons can behave both as a Wave and as a Particle. The Positions of These Electrons can be probabilistically predicted, but not know, using the orbitals. 
+
+### Electron Configurations
+The Ground State(lowest energy state) of a hydrogen atom is
+$$1s^1$$
+this represents the orbital and the number of electrons in the orbital
+
+
 
 ## Isotopes and Ions
 
