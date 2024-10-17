@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atom.md",
+                "file": "Biodiversity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Atom.md"
+                    "file": "Biodiversity.md"
                   }
                 }
               }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Atom.md",
+                    "file": "Biodiversity.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "Biodiversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "Biodiversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "Biodiversity.md"
               }
             }
           },
@@ -272,8 +272,12 @@
   },
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
-    "Energy.md",
+    "Ecosystems.md",
+    "Biodiversity.md",
+    "Biomes.md",
+    "Marine Ecosystems.md",
     "The Atom.md",
+    "Energy.md",
     "Element.md",
     "The Periodic Table.md",
     "Pasted image 20241016211827.png",
@@ -296,7 +300,6 @@
     "Systems.md",
     "Excalidraw/Drawing 2024-10-15 11.01.27.excalidraw.md",
     "Templates",
-    "Biomes.md",
     "Floral Structure Identification.md",
     "Pasted image 20241014144320.png",
     "Pasted image 20241014143926.png",
@@ -308,9 +311,6 @@
     "Light as a Wave.md",
     "A Note On Note Taking.md",
     "International System of Units.md",
-    "ENVS-201 Plant and Animal Identification.md",
-    "Conditional Convergence.md",
-    "Ratio Test for Absolute convergence.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",

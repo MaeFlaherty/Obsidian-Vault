@@ -21,4 +21,7 @@ temperate forest lie between the poles and the equator(pennsylvania)
 dry, arid climates exist at the boundary between temperate and tropical latitudes
 tropics form a large band around the equator. 
 
+# Types of Biomes
+[[Marine Ecosystems]]
+[[Terrestrial ecosystems]]
 
