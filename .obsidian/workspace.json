@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biodiversity.md",
+                "file": "ENVS-101 Intro to Environmental Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Biodiversity.md"
+                    "file": "ENVS-101 Intro to Environmental Science.md"
                   }
                 }
               }
@@ -69,7 +69,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Biodiversity.md",
+                    "file": "ENVS-101 Intro to Environmental Science.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biodiversity.md",
+                "file": "ENVS-101 Intro to Environmental Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biodiversity.md",
+                "file": "ENVS-101 Intro to Environmental Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biodiversity.md"
+                "file": "ENVS-101 Intro to Environmental Science.md"
               }
             }
           },
@@ -272,8 +272,8 @@
   },
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
-    "Ecosystems.md",
     "Biodiversity.md",
+    "Ecosystems.md",
     "Biomes.md",
     "Marine Ecosystems.md",
     "The Atom.md",
