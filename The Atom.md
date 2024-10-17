@@ -54,9 +54,11 @@ of equal energy in $n=2$ and $n>2$ shells
 Equal probability to be on the x, y, or z axis of the nucleus
 Appear in groups of 3 equivalents
 ### D Orbitals
+appear in $n=3$ and greater, $i=2$
 Appear in groups of 5 equivalents
 
 ### F Orbitals
+Quantum num
 Appear in groups of 7 equivalents
 
 
@@ -84,7 +86,7 @@ Electrons orbit the nucleus, held in place by the **weak nuclear force**, and ca
 An atom can gain or lose electrons, becoming an **ion**
 
 ### Electron Particle-Wave Duality
-Like [[Energy#The wave-particle duality|Light]], Electrons can behave both as a Wave and as a Particle. The Positions of These Electrons can 
+Like [[Energy#The wave-particle duality|Light]], Electrons can behave both as a Wave and as a Particle. The Positions of These Electrons can be probabilistically predicted, but not know, using the orbitals. 
 
 ## Isotopes and Ions
 
