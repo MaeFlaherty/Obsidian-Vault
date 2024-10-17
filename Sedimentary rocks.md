@@ -18,12 +18,24 @@ The present is the key to the past. James Hutton Realized you can observe how se
 # How are Sedimentary Rocks Formed?
 ## Weathering
 Generation of detritus via rock disintegration 
-### Types of weathering
-Mechanical - substan
+### Mechanical Weathering
+ substance gets into cracks in the rock, widening them and eventually wedging off bits of rock
+**caused by:**
+- Frost
+- Salt
+- Plant Roots
+### Chemical Weathering
+Rain contains cO2, which makes it slightly acidic
+this breaks down and dissolves the more basic rock, forming cracks and weakening it further and further over time. 
 ## Erosion
-removal of sediment grains from parent rock=
+removal of sediment grains from parent rock
 ## Transport
 Dispersal of sediment by gravity, wind, water, and ice
+### Maturity
+As eroded sediment gets older and transported around, it tumbles and degrades, getting rounder and smoothing of fthe sediments sharp corners. 
+
+Smaller, rounder grains are considered to be more mature than larger, more angluar grains(like artificial sand made with a hammer versus highly eroded beach sand or clay.)
+
 ## Deposition
 settling out of the transporting fluid
 ## Lithification
