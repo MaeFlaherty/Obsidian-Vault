@@ -44,27 +44,38 @@ After The discovery of [[Energy#Light as a particle]], Niels Bohr developed a ne
 - these zones of probability have a certain shape, known as **orbitals**
 
 ## Quantum Numbers
-N=  integer, principal quantum number, energy of the electron in a given orbital 
-L = goes from 0 - (n-1), described the shape of the orbital
+$N$=  integer, principal quantum number, energy of the electron in a given orbital 
+$l$ = goes from 0 - (n-1), described the shape of the orbital
+$m_l$  = goes from $-l \to l$, determines how many orbitals there are of a type of orbital $l$
+$m_s$= $1/2$ or $-1/2$, represents the spin value of an electron
 
-## Types Of Orbitals
+### Pauli Exclusion Principle
+Any given 2 electrons in an atom cannot have the same 4 quantum numbers, because any orbital can only hold up to 2 electrons, and even the electroons that share an orbital will have opposite spin($m_s$ )vaues. 
+## Types Of Orbitals(Sub-Shell)
 ![[Pasted image 20241016211827.png]]
 
 ### S Orbital
-l=0
+n=1
+$l=0$
+$m_l=0$
 sphere
 only 1 sublevel
 ### P Orbital
-l=1
+$l=1$
+$m_l=-1...1$
+
 of equal energy in $n=2$ and $n>2$ shells
 Equal probability to be on the x, y, or z axis of the nucleus
 Appear in groups of 3 equivalents
-### D Orbitals
+### D Orbital
  $l=2$
+ $m_l=-2...2$
 appear in $n≥3$ 
 Appear in groups of 5 equivalents
 
-### F Orbitals
+### F Orbital
+$l=3$
+$m_l=-3...3$
 $n ≥ 4$
 Quantum number $i=3$
 Appear in groups of 7 equivalents
@@ -74,15 +85,22 @@ Appear in groups of 7 equivalents
 
 These orbitals occur in all atoms, even if there are not enough electrons to fill them. 
 
+## Notation for Electron Arrangment in Atoms
+The SPDF notation uses numbers to designate a principal shell and the letters to identify a sub-shell
+$$1s^2$$
+Noble Gasses represent the formation of a full shell, so for atoms with lots of electrons you can start at any noble gas and continue from there
+
+Eg. The Electron Configuration for ${}_{73}Ta$
+$$[Xe], 6s^2, 6p^3$$
 
 ## Distribution of Electrons along an atomic orbital
 like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled.
 
+$1s^2, $
 
-## Notation for Electron Arrangment in Atoms
-The SPDF notation uses numbers to designate a principal shell and the letters to identify a sub-shell
 
-$$1s^2$$
+
+
 ## Electron Shielding
 ![[Pasted image 20241017111116.png]]
 The effect where **core** electrons surround the nucleus, blocking the positive energy and repelling valence electrons. When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. 
