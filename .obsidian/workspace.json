@@ -9,25 +9,20 @@
         "dimension": 65.80381471389646,
         "children": [
           {
+            "id": "da59cd30bd2e72bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "e86b4d6bfb6f290f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da59cd30bd2e72bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Sedimentary rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0889e861d00e1194",
@@ -65,7 +61,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Rocks.md"
+                    "file": "Sedimentary rocks.md"
                   }
                 }
               }
@@ -82,7 +78,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rocks.md",
+                    "file": "Sedimentary rocks.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -197,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rocks.md",
+                "file": "Sedimentary rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rocks.md",
+                "file": "Sedimentary rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rocks.md"
+                "file": "Sedimentary rocks.md"
               }
             }
           },
@@ -285,11 +281,14 @@
   },
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
+    "README.md",
+    "Sedimentary rocks.md",
+    "Rocks.md",
+    "Igneous Rock.md",
     "GEO-101, Intro to Geology.md",
     "The Atom.md",
     "CHEM-101, Intro to Chemistry.md",
     "Pasted image 20241017132318.png",
-    "README.md",
     "The Periodic Table.md",
     "Pasted image 20241017111116.png",
     "ENVS-101 Intro to Environmental Science.md",
@@ -300,12 +299,9 @@
     "Energy.md",
     "Element.md",
     "Pasted image 20241016211827.png",
-    "Rocks.md",
-    "Igneous Rock.md",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Magma.md",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
-    "Sedimentary rocks.md",
     "Metamorphic Rock.md",
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",

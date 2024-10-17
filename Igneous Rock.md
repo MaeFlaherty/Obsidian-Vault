@@ -46,11 +46,15 @@ Texture can beclassified into 3 main groups, with some subgroups
 - Crystals have a long time to grow
 - Intrusive
 - grains are roughly equal in size
+**Pegmatitic - Extremely lrage crystals**
+- crystals are very large
+- thought to form at the end of melting low viscosity magma
 ### Fragmental
-
+- mix of large crystals surrounded by fine grained aphanitic crystals
 ### Glassy
-- Very Silicate rich magma cools extremely quickly
-- Obsidian
+- Very Silicate rich magma
+- cools extremely quickly
+- eg. Obsidian
 ## Mineral Composition
 reflects magma composition
 
