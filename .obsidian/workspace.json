@@ -22,6 +22,19 @@
             }
           },
           {
+            "id": "da59cd30bd2e72bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef5ec5ab56cbc13b",
             "type": "leaf",
             "state": {
@@ -34,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0889e861d00e1194",
@@ -52,7 +66,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Atom.md"
+                    "file": "README.md"
                   }
                 }
               }
@@ -69,7 +83,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Atom.md",
+                    "file": "README.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "README.md"
               }
             }
           },
@@ -245,12 +259,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,10 +283,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e86b4d6bfb6f290f",
+  "active": "da59cd30bd2e72bb",
   "lastOpenFiles": [
-    "The Periodic Table.md",
     "The Atom.md",
+    "README.md",
+    "The Periodic Table.md",
     "Pasted image 20241017111116.png",
     "CHEM-101, Intro to Chemistry.md",
     "ENVS-101 Intro to Environmental Science.md",
