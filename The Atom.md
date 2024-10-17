@@ -44,7 +44,7 @@ After The discovery of [[Energy#Light as a particle]], Niels Bohr developed a ne
 - these zones of probability have a certain shape, known as **orbitals**
 
 ## Types Of Orbitals
-![[Pasted image 20241015133356.png]]
+![[Pasted image 20241016211827.png]]
 
 ### S Orbital
 sphere
