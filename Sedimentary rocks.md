@@ -87,7 +87,7 @@ Physical, Chemical, and biological changes to sediment
 
 # Sedimentary Structures
 Features imparted to sediments at or near deposition
-- Bedding and Stratificaton
+- Bedding and Stratification
 - Surface Features on bedding layers(fossils)
 - Arrangement of grains within bedding layers
 All of these provide information about the conditions at sedimentation
@@ -98,9 +98,13 @@ arranged in planar, close to horizontal beds
 Tilt in stratification happens after lithification
 
 Current and Flow features
-Sometimes sedimentary rocks formed under water can show the currents of that water in ripple marks(you can step in the same river twice, as long as the rive)
+Sometimes sedimentary rocks formed under water can show the currents of that water in ripple marks(you can step in the same river twice, as long as the river is millions of years old!)
+
+Dunes are similar to ripples, but much larger and impermanent
+dunes migrate based on the position of the wind, with finer sand on the windward side and coarser gravel on the leeward side. 
 
 
+# Where do Sedimentary Rocks Form?
 
 
-
+![[Screenshot 2024-10-17 at 3.07.50 PM.png]]
