@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atom.md",
+                "file": "Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "The Atom.md"
+                    "file": "Rocks.md"
                   }
                 }
               }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "The Atom.md",
+                    "file": "Rocks.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "Rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "Rocks.md"
               }
             }
           },
@@ -285,8 +285,9 @@
   },
   "active": "e86b4d6bfb6f290f",
   "lastOpenFiles": [
-    "CHEM-101, Intro to Chemistry.md",
+    "GEO-101, Intro to Geology.md",
     "The Atom.md",
+    "CHEM-101, Intro to Chemistry.md",
     "Pasted image 20241017132318.png",
     "README.md",
     "The Periodic Table.md",
@@ -300,7 +301,6 @@
     "Element.md",
     "Pasted image 20241016211827.png",
     "Rocks.md",
-    "GEO-101, Intro to Geology.md",
     "Igneous Rock.md",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Magma.md",
