@@ -44,11 +44,13 @@ After The discovery of [[Energy#Light as a particle]], Niels Bohr developed a ne
 - these zones of probability have a certain shape, known as **orbitals**
 
 ## Quantum Numbers
-$N$=  integer, principal quantum number, energy of the electron in a given orbital 
-$l$ = goes from 0 - (n-1), described the shape of the orbital
-$m_l$  = goes from $-l \to l$, determines how many orbitals there are of a type of orbital $l$
-$m_s$= $1/2$ or $-1/2$, represents the spin value of an electron
+$N$=  integer, principal quantum number, energy of the electron in a given orbital(shell). Think of this as the ring that the electron occupies in the bohr model. it takes 8 valence(outer ring) electrons to form a complete shell 
 
+$l$ = goes from 0 - (n-1), described the shape of the orbital, or the **subshell**
+
+$m_l$  = goes from $-l \to l$, determines how many orbitals there are of a type of orbital $l$
+
+$m_s$= $1/2$ or $-1/2$, represents the spin value of an electron
 ### Pauli Exclusion Principle
 Any given 2 electrons in an atom cannot have the same 4 quantum numbers, because any orbital can only hold up to 2 electrons, and even the electroons that share an orbital will have opposite spin($m_s$ )vaues. 
 ## Types Of Orbitals(Sub-Shell)
@@ -87,23 +89,30 @@ These orbitals occur in all atoms, even if there are not enough electrons to fil
 
 ## Notation for Electron Arrangment in Atoms
 The SPDF notation uses numbers to designate a principal shell and the letters to identify a sub-shell
-$$1s^2$$
+$$1s^1$$
+*Electron Configuration for Hydrogen*
+
 Noble Gasses represent the formation of a full shell, so for atoms with lots of electrons you can start at any noble gas and continue from there
 
 Eg. The Electron Configuration for ${}_{73}Ta$
 $$[Xe], 6s^2, 6p^3$$
 
-## Distribution of Electrons along an atomic orbital
+## Distribution of Electrons across an atomic orbital
 like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled.
 
 $1s^2, $
 
 
-
+## What Explains the variance in electron energy levels
+a push and pull between the attraction of the charged protons and the electrons, and the repulsion of other electrons in the atom. This push and pull can balance, and reach a stable, low energy state, where the electrons are most symmetric. 
 
 ## Electron Shielding
+Electron Shielding involves interaction between electrons on different energy levels and sublevels. 
 ![[Pasted image 20241017111116.png]]
-The effect where **core** electrons surround the nucleus, blocking the positive energy and repelling valence electrons. When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. 
+**core** electrons surround the nucleus, blocking **some of** the positive energy from the nucleus, and repelling valence electrons. 
+
+
+When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. 
 
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons

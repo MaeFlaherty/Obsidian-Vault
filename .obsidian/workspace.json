@@ -6,7 +6,7 @@
       {
         "id": "20b72ca457fa2bb1",
         "type": "tabs",
-        "dimension": 59.91285403050109,
+        "dimension": 65.80381471389646,
         "children": [
           {
             "id": "e86b4d6bfb6f290f",
@@ -47,13 +47,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0889e861d00e1194",
         "type": "split",
-        "dimension": 40.08714596949891,
+        "dimension": 34.19618528610354,
         "children": [
           {
             "id": "92f57046e7b1dd3c",
@@ -66,7 +65,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "README.md"
+                    "file": "The Atom.md"
                   }
                 }
               }
@@ -83,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "README.md",
+                    "file": "The Atom.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -121,7 +120,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.8974318522983992,
+                      "scale": 1.1140811289605306,
                       "close": true
                     }
                   }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "The Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "The Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "The Atom.md"
               }
             }
           },
@@ -263,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,10 +283,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "da59cd30bd2e72bb",
+  "active": "bef812233e15851a",
   "lastOpenFiles": [
-    "The Atom.md",
     "README.md",
+    "The Atom.md",
     "The Periodic Table.md",
     "Pasted image 20241017111116.png",
     "CHEM-101, Intro to Chemistry.md",
