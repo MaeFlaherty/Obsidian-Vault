@@ -1,4 +1,4 @@
-A p series is a [[Series]] in the form
+A p series is a [[Series and Sequences]] in the form
 $$
 \sum^\infty_{n=1}\frac{1}{n^p}
 $$

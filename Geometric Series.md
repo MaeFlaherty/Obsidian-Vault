@@ -1,5 +1,5 @@
 ### Definition
-A Geometric Series is a [[Series]] that takes the form 
+A Geometric Series is a [[Series and Sequences]] that takes the form 
 $$
 \sum^\infty_{k=1}ar^k
 $$

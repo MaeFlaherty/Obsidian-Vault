@@ -1,4 +1,4 @@
-An alternating series is any [[series]] which can be written in form 
+An alternating series is any [[Series and Sequences]] which can be written in form 
 $$
 \sum^\infty_{k=1} (-1)^{k+1} a_k
 $$

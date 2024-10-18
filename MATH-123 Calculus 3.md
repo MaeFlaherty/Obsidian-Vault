@@ -1,3 +1,3 @@
 #calculus 
 [[Limits]]
-[[Series]]
+[[Series and Sequences]]

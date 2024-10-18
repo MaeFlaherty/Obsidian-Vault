@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Atom.md",
+                "file": "Series and Sequences.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Atom.md",
+                "file": "Series and Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Atom.md",
+                "file": "Series and Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Atom.md"
+                "file": "Series and Sequences.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "The Atom.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
     "CHEM-101, Intro to Chemistry.md",
     "dskflj.md",
@@ -189,7 +190,6 @@
     "Sedimentary rocks.md",
     "Screenshot 2024-10-17 at 3.07.50 PM.png",
     "README.md",
-    "The Atom.md",
     "Pasted image 20241017132318.png",
     "The Periodic Table.md",
     "Pasted image 20241017111116.png",
@@ -208,7 +208,6 @@
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",
     "PeriodicTableWallpaper-56a12d103df78cf7726827e8.png",
-    "Pasted image 20241015125934.png",
     "Wave Behavior.md",
     "Matter.md",
     "Photosynthesis.md",

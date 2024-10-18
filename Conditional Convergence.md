@@ -1,4 +1,4 @@
-A [[series]] which does not have [[Absolute Convergence]] converges conditionally
+A [[Series and Sequences]] which does not have [[Absolute Convergence]] converges conditionally
 
 ### Example
 Determine if the given series is conditionally convergent, absolutely convergent, or divergent

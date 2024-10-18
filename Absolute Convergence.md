@@ -1,4 +1,4 @@
-A [[series]] is said to converge absolutely if
+A [[Series and Sequences]] is said to converge absolutely if
 $$
 \sum^\infty_{k=1}|u_k|
 $$
