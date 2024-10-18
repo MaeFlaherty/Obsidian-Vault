@@ -10,6 +10,8 @@ General term
 $$ (-1)^{n+1}\frac{1}{n}$$
 ## Infinite Sequence Notation
 A sequence can also be written in the form$$\{a_k\}^{+\infty}_{k=1}$$
+## Limits of a Sequence 
+
 
 
 # What is a Series
