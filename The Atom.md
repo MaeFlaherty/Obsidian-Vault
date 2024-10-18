@@ -101,8 +101,7 @@ $$[Xe], 6s^2, 6p^3$$
 like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled. In addition to this, electrons in diagrams are shown as having the same spin until they start sharing orbitals. 
 ![[Pasted image 20241017132318.png]]
 
-$1s^2, $
-
+![[Screenshot 2024-10-17 at 8.44.36 PM.png]]
 
 ## What Explains the variance in electron energy levels
 a push and pull between the attraction of the charged protons and the electrons, and the repulsion of other electrons in the atom. This push and pull can balance, and reach a stable, low energy state, where the electrons are most symmetric. 

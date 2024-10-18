@@ -11,8 +11,13 @@
             "id": "caa1a7231cd888c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Atom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Atom.md"
+              }
             }
           },
           {
@@ -166,6 +175,8 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Screenshot 2024-10-17 at 8.44.36 PM.png",
+    "CHEM-101, Intro to Chemistry.md",
     "dskflj.md",
     "Absolute Convergence.md",
     "Templates/Note - taking template.md",
@@ -179,7 +190,6 @@
     "Screenshot 2024-10-17 at 3.07.50 PM.png",
     "README.md",
     "The Atom.md",
-    "CHEM-101, Intro to Chemistry.md",
     "Pasted image 20241017132318.png",
     "The Periodic Table.md",
     "Pasted image 20241017111116.png",
@@ -205,7 +215,6 @@
     "Systems.md",
     "Excalidraw/Drawing 2024-10-15 11.01.27.excalidraw.md",
     "Templates",
-    "Floral Structure Identification.md",
     "GEO 101_F2024_syllabus(1).pdf",
     "CHEM 101_Syllabus_F24.pdf",
     "Untitled 2.canvas",
