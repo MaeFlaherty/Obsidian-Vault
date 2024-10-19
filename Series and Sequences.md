@@ -11,8 +11,9 @@ $$ (-1)^{n+1}\frac{1}{n}$$
 ## Infinite Sequence Notation
 A sequence can also be written in the form$$\{a_k\}^{+\infty}_{k=1}$$
 ## Limits of a Sequence 
-The limit of a sequence $a_n$ is said to converge to a limit $L$ if if for any positive number $\epsilon$ there exists a positive number $N$ such that $|a_n-L|<\epsilon$ for all $n≥N$ 
+The Limit of a sequence is the limit of the function(general term) that defines that sequence. However, because a sequence is only defined for integers, it really only makes sense to take the limit of a sequence as $n\to\infty$ 
 
+The Normal Limit Theorems all apply when taking the limit of a sequence. This is because we can map sequences onto their respective functions that are defined for all numbers, not just inter
 
 **Theorem 1.1.** Suppose that the sequences $\{a_n\}$ and $\{b_n\}$ converge to limits $L_1$and $L_2$, respectively, and _c_ is a constant. Then:
 
@@ -27,6 +28,9 @@ The limit of a sequence $a_n$ is said to converge to a limit $L$ if if for any p
 (e) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.jpg)
 
 (f) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.jpg)
+
+## Convergence Definition
+The limit of a sequence $a_n$ is said to converge to a limit $L$ if if for any positive number $\epsilon$ there exists a positive number $N$ such that $|a_n-L|<\epsilon$ for all $n≥N$ 
 
 
 
