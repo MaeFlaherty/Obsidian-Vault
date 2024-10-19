@@ -32,6 +32,11 @@ The Normal Limit Theorems all apply when taking the limit of a sequence. This is
 ## Convergence Definition
 The limit of a sequence $a_n$ is said to converge to a limit $L$ if if for any positive number $\epsilon$ there exists a positive number $N$ such that $|a_n-L|<\epsilon$ for all $n≥N$ 
 
+## The Squeeze Theorem(For Sequences)
+Let $\{a_n\}, \{b_n\}, \{c_n\}$ be sequences such that 
+$$a_n≤b_n≤c_n$$ if $a_n$ and $c_n$ have a common limi
+
+
 
 
 # What is a Series

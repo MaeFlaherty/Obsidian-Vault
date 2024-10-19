@@ -6,6 +6,7 @@
       {
         "id": "1375bf2c6e77045e",
         "type": "tabs",
+        "dimension": 73.02771855010661,
         "children": [
           {
             "id": "caa1a7231cd888c1",
@@ -18,9 +19,77 @@
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "2be230ae298bdd7b"
           }
         ]
+      },
+      {
+        "id": "f97f188f0a31b082",
+        "type": "split",
+        "dimension": 26.972281449893394,
+        "children": [
+          {
+            "id": "82452e0bf5464a69",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "295674b8108da633",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Series and Sequences.md"
+                  }
+                },
+                "group": "2be230ae298bdd7b"
+              }
+            ]
+          },
+          {
+            "id": "485603aaed266620",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8e4071628d20a67",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Series and Sequences.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5823869764908656,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "2be230ae298bdd7b"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -174,7 +243,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "caa1a7231cd888c1",
+  "active": "e8e4071628d20a67",
   "lastOpenFiles": [
     "The Atom.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
