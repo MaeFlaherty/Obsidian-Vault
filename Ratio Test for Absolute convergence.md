@@ -1,11 +1,25 @@
-Basically applying the [[Ratio Test]] to [[Absolute Convergence]] by inserting the absolute value of the series into the original test
+A [[Series and Sequences]] is said to converge absolutely if
 $$
-\sum^\infty_{k=1}u_k
+\sum^\infty_{k=1}|u_k|
 $$
-is a series with nonzero terms, and let
+Converges
+
+If a series converges absolutely, then it converges.
+### Example
+Determine if the given series converges absolutely.
 $$
-p = \lim_{k\to\infty}\frac{|u_k+1|}{|u_k|}
+\sum^\infty_{k=1}(-1/3)^k
 $$
-if p < 1, the series converges absolutely
-if p > 1 then the series diverges. 
-if p = 1, the test is inconclusive. 
+$$
+\sum^\infty_{k=1}|(-1/3)^k| = \sum^\infty_{k=1}(\frac{1}{3})^k
+$$
+which is a geometric series where $r<1$ , so the series **converges absolutely**
+
+### Example
+$$
+\sum^\infty_{k=1}(-1)^{k+1}\frac{1}{k}
+$$
+$$
+\sum^\infty_{k=1}|(-1)^{k+1}\frac{1}{k}| = \sum^\infty_{k=1}\frac{1}{k}
+$$
+which diverges, harmonic series. so the original series does NOT converge absolutely
