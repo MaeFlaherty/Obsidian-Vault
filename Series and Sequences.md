@@ -52,15 +52,55 @@ if $\lim_{n\to\infty}|a_n|=0$ , then $\lim_{n\to\infty}a_n=0$
 Sometimes, Sequences are defined recursively, using the previous term of that sequence.
 
 ## Monotone Sequences
-Sometimes we want to know if a sequence converges without needing to know 
+Sometimes we want to know if a sequence converges without needing to know it's exact limit.
+
+A Series is
+- Strictly increasing if $a_1 < a_2 <a_3...<a_n$
+- increasing if $a_1 ≤ a_2 ≤ a_3...≤a_n$
+- Strictly decreasing if $a_1 > a_2 >a_3...>a_n$
+- decreasing if $a_1 ≥ a_2 ≥ a_3...≥ a_n$
+These definitions make a sequence **monotone** or **strictly monotone**
+### Testing for Monotonicity
+You can test for monotonicity using either difference of successive terms or ratios of sucessive terms
+
+#### Differences of Successive terms
+**Strictly Increasing**
+$$a_{n+1} - a_n>0$$
+$$\frac{a_{n+1}}{a_n}>1$$
+
+**Increasing**
+
+$$a_{n+1} - a_n≥0$$
+$$\frac{a_{n+1}}{a_n}≥1$$
+
+**Strictly Decreasing**
+
+$$a_{n+1} - a_n<0$$
+$$\frac{a_{n+1}}{a_n}<1$$
+**Decreasing**
+
+$$a_{n+1} - a_n≤0$$
+$$\frac{a_{n+1}}{a_n}≤1$$
+
+### Eventual Monotonicity
+sometimes, a sequence behaves strangely at first, then settles into a monotonic pattern, like this$$-2, 3, 5, -4, 1, 2, 3, 4...$$
+In cases like this, you can say the sequence is eventually strictly increasing or any of the other monotonic properties.
+
+a given monotonic sequence either goes to infinity or converges, as it cannot diverge by oscillation. 
+
+if a sequence $a_n$ is evenyually increasing/decreasing, then there ara two possibilities:
+
+a) There is a constant M called an upper/lower bound for the sequence such that  $a_n ≤ M$, for all $n$, in which case $L≤M$ 
+b) No lower bound exists, and the sequence diverges to positive/negative infinity.
+
+# Infinite Series
+A series is an infinite sum of a given function with respect to $k$
+$$
+\sum^\infty_{k=1} u_k
+$$
+the numbers 
 
 
- 
-# What is a Series
-A series is an infinite sum of a given function with respect to $k$ 
-$$
-\sum^\infty_{k=1} a_k
-$$
 To find wether a series converges or diverges, use one of many [[Series Convergence Tests]]
 
 ( [[Geometric Series]] )
