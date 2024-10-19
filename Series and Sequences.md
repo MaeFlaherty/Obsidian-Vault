@@ -11,6 +11,22 @@ $$ (-1)^{n+1}\frac{1}{n}$$
 ## Infinite Sequence Notation
 A sequence can also be written in the form$$\{a_k\}^{+\infty}_{k=1}$$
 ## Limits of a Sequence 
+The limit of a sequence $a_n$ is said to converge to a limit $L$ if if for any positive number $\epsilon$ there exists a positive number $N$ such that $|a_n-L|<\epsilon$ for all $n≥N$ 
+
+
+**Theorem 1.1.** Suppose that the sequences $\{a_n\}$ and $\{b_n\}$ converge to limits $L_1$and $L_2$, respectively, and _c_ is a constant. Then:
+
+(a) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)
+
+(b) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)
+
+(c) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.jpg)
+
+(d) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.jpg)
+
+(e) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.jpg)
+
+(f) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.jpg)
 
 
 
