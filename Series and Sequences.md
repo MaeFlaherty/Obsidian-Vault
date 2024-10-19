@@ -13,7 +13,7 @@ A sequence can also be written in the form$$\{a_k\}^{+\infty}_{k=1}$$
 ## Limits of a Sequence 
 The Limit of a sequence is the limit of the function(general term) that defines that sequence. However, because a sequence is only defined for integers, it really only makes sense to take the limit of a sequence as $n\to\infty$ 
 
-The Normal Limit Theorems all apply when taking the limit of a sequence. This is because we can map sequences onto their respective functions that are defined for all numbers, not just inter
+The Normal Limit Theorems all apply when taking the limit of a sequence. This is because we can map sequences onto their respective functions that are defined for all numbers, not just integers. If one converges, than the other converges. 
 
 **Theorem 1.1.** Suppose that the sequences $\{a_n\}$ and $\{b_n\}$ converge to limits $L_1$and $L_2$, respectively, and _c_ is a constant. Then:
 
