@@ -1,5 +1,7 @@
 
-# What is a Sequence?
+
+# Sequences
+## What is a Sequence?
 A **Sequence** is a function whose domain is a set of integers $(n=1,2,3...)$ The Domain is typically the set of positive or nonnegative integers($n=1$ or $n=0$).
 
 sequences can either be listed out, or put in the form of a general term 
@@ -29,16 +31,31 @@ The Normal Limit Theorems all apply when taking the limit of a sequence. This is
 
 (f) ![](file:////Users/maeflaherty/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.jpg)
 
-## Convergence Definition
+### Convergence Definition
 The limit of a sequence $a_n$ is said to converge to a limit $L$ if if for any positive number $\epsilon$ there exists a positive number $N$ such that $|a_n-L|<\epsilon$ for all $n≥N$ 
 
-## The Squeeze Theorem(For Sequences)
+### Even/Odd Theorem
+A sequence converges to a limit L if and ONLY if both the even terms AND the odd terms converge to that limit 
+
+### The Squeeze Theorem(For Sequences)
 Let $\{a_n\}, \{b_n\}, \{c_n\}$ be sequences such that 
-$$a_n≤b_n≤c_n$$ if $a_n$ and $c_n$ have a common limi
+$$a_n≤b_n≤c_n$$ if $a_n$ and $c_n$ have a common limit, as $n\to\infty$, then $b_n$ also shares that limit.
+
+Common uses for this theorem include with functions whose limits go to 0.
+$$1/n$$
+### Absolute Value Theorem for sequences
+This theorem is useful when dealing with sequences that alternate between positive and negative. 
+
+if $\lim_{n\to\infty}|a_n|=0$ , then $\lim_{n\to\infty}a_n=0$
+
+## Recursively defined sequences 
+Sometimes, Sequences are defined recursively, using the previous term of that sequence.
+
+## Monotone Sequences
+Sometimes we want to know if a sequence converges without needing to know 
 
 
-
-
+ 
 # What is a Series
 A series is an infinite sum of a given function with respect to $k$ 
 $$
