@@ -98,7 +98,7 @@ A series is an infinite sum of a given function with respect to $k$
 $$
 \sum^\infty_{k=1} u_k
 $$
-the numbers 
+the numbers $u_1, u_2, u_3$, etc. are called the terms of the series 
 
 
 To find wether a series converges or diverges, use one of many [[Series Convergence Tests]]

@@ -12,10 +12,12 @@
             "id": "caa1a7231cd888c1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Series and Sequences.md",
-                "staged": false
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             },
             "group": "2be230ae298bdd7b"
@@ -37,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Rocks.md"
+                    "file": "Series and Sequences.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -54,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rocks.md",
+                    "file": "Series and Sequences.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -155,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Series and Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Series and Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Series and Sequences.md"
+              }
             }
           },
           {
@@ -216,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 629.5
+    "width": 629.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
