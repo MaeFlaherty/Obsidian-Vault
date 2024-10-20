@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Floral Structure Identification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Limit Comparison Test.md"
+                    "file": "Floral Structure Identification.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Limit Comparison Test.md",
+                    "file": "Floral Structure Identification.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Floral Structure Identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "Floral Structure Identification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Limit Comparison Test.md"
+                "file": "Floral Structure Identification.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Limit Comparison Test.md",
     "Series Convergence Tests.md",
     "Direct Comparison Test.md",
     "Integral Test.md",
@@ -279,7 +280,6 @@
     "Element.md",
     "Pasted image 20241016211827.png",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
-    "Magma.md",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",
