@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series Convergence Tests.md",
+                "file": "Limit Comparison Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Series Convergence Tests.md"
+                    "file": "Limit Comparison Test.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Series Convergence Tests.md",
+                    "file": "Limit Comparison Test.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series Convergence Tests.md",
+                "file": "Limit Comparison Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series Convergence Tests.md",
+                "file": "Limit Comparison Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series Convergence Tests.md"
+                "file": "Limit Comparison Test.md"
               }
             }
           },
@@ -245,6 +245,10 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Series Convergence Tests.md",
+    "Direct Comparison Test.md",
+    "Integral Test.md",
+    "Divergence Test.md",
     "Series and Sequences.md",
     "P Series.md",
     "Geometric Series.md",
@@ -277,13 +281,9 @@
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Magma.md",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
-    "Metamorphic Rock.md",
     "Pasted image 20241015133427.png",
     "Pasted image 20241015133356.png",
     "PeriodicTableWallpaper-56a12d103df78cf7726827e8.png",
-    "Wave Behavior.md",
-    "Matter.md",
-    "Photosynthesis.md",
     "Templates",
     "GEO 101_F2024_syllabus(1).pdf",
     "CHEM 101_Syllabus_F24.pdf",
