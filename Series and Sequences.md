@@ -114,4 +114,5 @@ To find wether a series converges or diverges, use one of many [[Series Converge
  [[Geometric Series]] 
  [[Telescoping Series]]
  [[Harmonic Series]]
+ [[P Series]]
  

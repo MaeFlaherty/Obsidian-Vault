@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "Series Convergence Tests.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Series and Sequences.md"
+                    "file": "Series Convergence Tests.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Series and Sequences.md",
+                    "file": "Series Convergence Tests.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "Series Convergence Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "Series Convergence Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series and Sequences.md"
+                "file": "Series Convergence Tests.md"
               }
             }
           },
@@ -245,8 +245,9 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
-    "Geometric Series.md",
     "Series and Sequences.md",
+    "P Series.md",
+    "Geometric Series.md",
     "Rocks.md",
     "The Atom.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
@@ -283,7 +284,6 @@
     "Wave Behavior.md",
     "Matter.md",
     "Photosynthesis.md",
-    "Systems.md",
     "Templates",
     "GEO 101_F2024_syllabus(1).pdf",
     "CHEM 101_Syllabus_F24.pdf",
