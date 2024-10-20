@@ -93,14 +93,25 @@ if a sequence $a_n$ is evenyually increasing/decreasing, then there ara two poss
 a) There is a constant M called an upper/lower bound for the sequence such that  $a_n ≤ M$, for all $n$, in which case $L≤M$ 
 b) No lower bound exists, and the sequence diverges to positive/negative infinity.
 
-# Infinite Series
+# Series
 A series is an infinite sum of a given function with respect to $k$
 $$
 \sum^\infty_{k=1} u_k
 $$
-the numbers $u_1, u_2, u_3$, etc. are called the terms of the series 
+the numbers $u_1, u_2, u_3$, etc. are called the terms of the series
+
+## Series Convergence ansd divergence
+We can talk about series convergence by getting the nth partial sum($s_n$) and the sequence of partial sums$\{s_n\}^{\infty}_{n=1}$(add n terms of the sequence up)$$s_n=u_1+u_2+u_3+u_4+...+u_n = \sum_{k=1}^\infty u_k$$
+
+
+if the sequence of partial sums ($s_n$) converges to a limit $S$, then the series is said to converge to $S$, and $S$ is called the sum of the series.
+
+if the sequence of partial sums diverges, the series diverges. 
 
 
 To find wether a series converges or diverges, use one of many [[Series Convergence Tests]]
 
-( [[Geometric Series]] )
+ [[Geometric Series]] 
+ [[Telescoping Series]]
+ [[Harmonic Series]]
+ 

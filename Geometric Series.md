@@ -1,10 +1,10 @@
-### Definition
-A Geometric Series is a [[Series and Sequences]] that takes the form 
+# Definition
+A Geometric Series is a [[Series and Sequences#Series|Series]] that takes the form 
 $$
 \sum^\infty_{k=1}ar^k
 $$
----
-#### Properties
+Where a ≠ 0
+## Properties
 When $r \geq 1$, the series **Diverges** 
  When $r < 1$, the series **Converges** to the sum
 $$
@@ -12,8 +12,10 @@ $$
 $$
 
 These can take a few different forms, and sometimes a series is not given explicitly in the above form(Like this failed quiz question)
+# Examples
 
- **Ex)** Determine if the given series converges or diverges. If it converges, find its sum
+## Example 1
+ Determine if the given series converges or diverges. If it converges, find its sum
 $$
 2 - \frac{2}{3}+\frac{2}{9}-\frac{2}{27}+\frac{2}{81}
 $$
