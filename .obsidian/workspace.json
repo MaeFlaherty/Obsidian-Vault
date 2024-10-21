@@ -12,13 +12,8 @@
             "id": "caa1a7231cd888c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floral Structure Identification.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "2be230ae298bdd7b"
           }
@@ -157,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floral Structure Identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floral Structure Identification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Floral Structure Identification.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,6 +236,7 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Floral Structure Identification.md",
     "Limit Comparison Test.md",
     "Series Convergence Tests.md",
     "Direct Comparison Test.md",
@@ -277,7 +269,6 @@
     "Biomes.md",
     "Marine Ecosystems.md",
     "Energy.md",
-    "Element.md",
     "Pasted image 20241016211827.png",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
