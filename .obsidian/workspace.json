@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Series and Sequences.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Geometric Series.md"
+                    "file": "Series and Sequences.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Geometric Series.md",
+                    "file": "Series and Sequences.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Series and Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Series and Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometric Series.md"
+                "file": "Series and Sequences.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Geometric Series.md",
     "Series and Sequences.md",
     "Floral Structure Identification.md",
     "Limit Comparison Test.md",
@@ -253,7 +254,6 @@
     "Integral Test.md",
     "Divergence Test.md",
     "P Series.md",
-    "Geometric Series.md",
     "Rocks.md",
     "The Atom.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
