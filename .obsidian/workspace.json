@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "Geometric Series.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Series and Sequences.md"
+                    "file": "Geometric Series.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Series and Sequences.md",
+                    "file": "Geometric Series.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series and Sequences.md"
+                "file": "Geometric Series.md"
               }
             }
           },
@@ -245,13 +245,13 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Series and Sequences.md",
     "Floral Structure Identification.md",
     "Limit Comparison Test.md",
     "Series Convergence Tests.md",
     "Direct Comparison Test.md",
     "Integral Test.md",
     "Divergence Test.md",
-    "Series and Sequences.md",
     "P Series.md",
     "Geometric Series.md",
     "Rocks.md",
