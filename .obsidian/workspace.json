@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direct Comparison Test.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Direct Comparison Test.md"
+                    "file": "CHEM-101, Intro to Chemistry.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Direct Comparison Test.md",
+                    "file": "CHEM-101, Intro to Chemistry.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Direct Comparison Test.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Direct Comparison Test.md",
+                "file": "CHEM-101, Intro to Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Direct Comparison Test.md"
+                "file": "CHEM-101, Intro to Chemistry.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Direct Comparison Test.md",
     "Series Convergence Tests.md",
     "Integral Test.md",
     "Series and Sequences.md",
@@ -253,7 +254,6 @@
     "Geometric Series.md",
     "Floral Structure Identification.md",
     "Limit Comparison Test.md",
-    "Direct Comparison Test.md",
     "Divergence Test.md",
     "Rocks.md",
     "The Atom.md",
