@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md",
+                "file": "Water.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "CHEM-101, Intro to Chemistry.md"
+                    "file": "Water.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,14 +56,14 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CHEM-101, Intro to Chemistry.md",
+                    "file": "Water.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
-                      "localJumps": 1,
+                      "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": false,
+                      "localInterlinks": true,
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
@@ -74,12 +74,12 @@
                       "textFadeMultiplier": -3,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
+                      "collapse-forces": false,
                       "centerStrength": 0.518713248970312,
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.5823869764908656,
+                      "scale": 0.9635146031265138,
                       "close": true
                     }
                   }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md",
+                "file": "Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md",
+                "file": "Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHEM-101, Intro to Chemistry.md"
+                "file": "Water.md"
               }
             }
           },
@@ -243,8 +243,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "caa1a7231cd888c1",
+  "active": "e8e4071628d20a67",
   "lastOpenFiles": [
+    "ENVS-101 Intro to Environmental Science.md",
+    "Water.md",
+    "Ecosystems.md",
+    "CHEM-101, Intro to Chemistry.md",
     "Direct Comparison Test.md",
     "Series Convergence Tests.md",
     "Integral Test.md",
@@ -258,7 +262,6 @@
     "Rocks.md",
     "The Atom.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
-    "CHEM-101, Intro to Chemistry.md",
     "dskflj.md",
     "Absolute Convergence.md",
     "Templates/Note - taking template.md",
@@ -273,11 +276,8 @@
     "Pasted image 20241017132318.png",
     "The Periodic Table.md",
     "Pasted image 20241017111116.png",
-    "ENVS-101 Intro to Environmental Science.md",
     "Biodiversity.md",
-    "Ecosystems.md",
     "Biomes.md",
-    "Marine Ecosystems.md",
     "Pasted image 20241016211827.png",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",

@@ -26,6 +26,19 @@ An organism's trophic level describes what level it lies at in the food web. **P
 
 **Decomposers**, like insects and fungi, also feed on dead organisms, breaking down their biomass into energy and nutrients, which return to the soil
 
+
+# Organisms That Define a Species
+## Keystone Species
+Species whose disruption or extinction would widely effect the rest of the ecosysystem
+
+## Indicator Species
+Presence/absence indicates the health of an ecosystem
+## Umbrella Species
+require large blocks of undisturbed habitat to maintain viable populations
+## Flagship Species
+Interesting or attractive species that people are emotionally attached to. 
+
+
 # Related
 [[Biomes]]
 [[Biodiversity]]
