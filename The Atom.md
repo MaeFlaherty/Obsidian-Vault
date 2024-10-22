@@ -92,6 +92,7 @@ The SPDF notation uses numbers to designate a principal shell and the letters to
 $$1s^1$$
 *Electron Configuration for Hydrogen*
 
+
 Noble Gasses represent the formation of a full shell, so for atoms with lots of electrons you can start at any noble gas and continue from there, known as **Noble Gas Notation**
 
 
@@ -99,7 +100,7 @@ Eg. The Electron Configuration for ${}_{73}Ta$
 $$[Xe], 6s^2, 6p^3$$
 
 ## Distribution of Electrons across an atomic orbital
-like people on a bus, electrons will pair together in an orbital only after all empty orbitals are filled. In addition to this, electrons in diagrams are shown as having the same spin until they start sharing orbitals. 
+like people on a bus, electrons will pair together within a sub-level only after all empty orbitals are filled. In addition to this, electrons in diagrams are shown as having the same spin until they start sharing orbitals. 
 ![[Pasted image 20241017132318.png]]
 
 ![[Screenshot 2024-10-17 at 8.44.36 PM.png]]
@@ -120,6 +121,15 @@ subtract the number of electrons in the inner rings from the atomic number to ge
 When an electron penetrates this core(gets closer to the nucleus), it reduces the energy of the electrons in this orbital. This happens because the "shells" are still just particles, and sometimes the orbits can overlap. 
 
 The Kinetic energy goes down, but the attraction to the nucleus(potential energy) goes up. This causes emission of radiation. 
+
+## Losing and Gaining Electrons
+Atoms adjust their valence shells to reach the most stable electron configuration: 2e(doublet) or 8e(octet) configurations, by losing, gaining, or sharing electrons.
+
+**This is the basis of chemical reactions!** all of this depends on the more mobile valence electrons. 
+
+The number of unpaired valence electrons in an atom is the number of bonds that can be created. 
+
+
 # Subatomic Particles
 All atoms are made up of even smaller particles, called protons, neutrons, and electrons
 ## Protons

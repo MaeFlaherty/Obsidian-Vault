@@ -79,7 +79,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.9635146031265138,
+                      "scale": 0.9283603904380455,
                       "close": true
                     }
                   }
@@ -243,7 +243,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "caa1a7231cd888c1",
+  "active": "e8e4071628d20a67",
   "lastOpenFiles": [
     "CHEM-101, Intro to Chemistry.md",
     "The Periodic Table.md",
