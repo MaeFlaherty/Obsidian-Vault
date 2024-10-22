@@ -92,7 +92,8 @@ The SPDF notation uses numbers to designate a principal shell and the letters to
 $$1s^1$$
 *Electron Configuration for Hydrogen*
 
-Noble Gasses represent the formation of a full shell, so for atoms with lots of electrons you can start at any noble gas and continue from there
+Noble Gasses represent the formation of a full shell, so for atoms with lots of electrons you can start at any noble gas and continue from there, known as **Noble Gas Notation**
+
 
 Eg. The Electron Configuration for ${}_{73}Ta$
 $$[Xe], 6s^2, 6p^3$$
@@ -131,6 +132,16 @@ Neutrons hold the nucleus together with the **Strong Nuclear Force**
 An Electron is a negatively charged particle, with an atomic mass close to 0.
 Electrons orbit the nucleus, held in place by the **weak nuclear force**, and can be closer or farther from the nucleus, depending on energy level.
 An atom can gain or lose electrons, becoming an **ion**
+
+### Core vs. Valence Electrons
+Core electrons are in completely filled energy shells and sub shells while in the ground state. These contribute to the electron shielding effect, and are very stable. The Noble Gasses have only core electrons. 
+**valence electrons** exist in the unfilled, highest energy shell while in the ground state. These electrons are shielded from the full positive force of the nucleus, and are leass stable than core electrons, more likely to be exchanged with other atoms. 
+
+For Core Elements, the number of valence electrons is the number of non-transition groups they are away(Carbon is in the 4th non-transition group, so it has 4 valence electrons)
+
+Transition Elements fill in differently from main group elements, and you must count ALL incomplete sublevels(count from the last finished sublevel)
+
+
 
 
 ### Electron Particle-Wave Duality

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "The Atom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Limit Comparison Test.md"
+                    "file": "The Atom.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Limit Comparison Test.md",
+                    "file": "The Atom.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "The Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limit Comparison Test.md",
+                "file": "The Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Limit Comparison Test.md"
+                "file": "The Atom.md"
               }
             }
           },
@@ -245,19 +245,20 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "CHEM-101, Intro to Chemistry.md",
+    "The Periodic Table.md",
+    "Limit Comparison Test.md",
     "Series Convergence Tests.md",
     "Direct Comparison Test.md",
     "Series and Sequences.md",
     "Water.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Ecosystems.md",
-    "CHEM-101, Intro to Chemistry.md",
     "Integral Test.md",
     "P Series.md",
     "Harmonic Series.md",
     "Geometric Series.md",
     "Floral Structure Identification.md",
-    "Limit Comparison Test.md",
     "Divergence Test.md",
     "Rocks.md",
     "The Atom.md",
@@ -274,7 +275,6 @@
     "Screenshot 2024-10-17 at 3.07.50 PM.png",
     "README.md",
     "Pasted image 20241017132318.png",
-    "The Periodic Table.md",
     "Pasted image 20241017111116.png",
     "Biodiversity.md",
     "Biomes.md",
