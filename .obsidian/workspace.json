@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "P Series.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Series and Sequences.md"
+                    "file": "P Series.md"
                   }
                 },
                 "group": "2be230ae298bdd7b"
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Series and Sequences.md",
+                    "file": "P Series.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "P Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Series and Sequences.md",
+                "file": "P Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Series and Sequences.md"
+                "file": "P Series.md"
               }
             }
           },
@@ -245,11 +245,12 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
-    "Geometric Series.md",
     "Series and Sequences.md",
+    "Harmonic Series.md",
+    "Series Convergence Tests.md",
+    "Geometric Series.md",
     "Floral Structure Identification.md",
     "Limit Comparison Test.md",
-    "Series Convergence Tests.md",
     "Direct Comparison Test.md",
     "Integral Test.md",
     "Divergence Test.md",
@@ -277,7 +278,6 @@
     "Ecosystems.md",
     "Biomes.md",
     "Marine Ecosystems.md",
-    "Energy.md",
     "Pasted image 20241016211827.png",
     "Screenshot 2024-10-15 at 3.08.52 PM.png",
     "Screenshot 2024-10-15 at 2.43.34 PM.png",
