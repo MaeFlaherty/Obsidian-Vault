@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "1a77d98acd58f7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "1375bf2c6e77045e",
+        "type": "tabs",
+        "dimension": 73.02771855010661,
+        "children": [
+          {
+            "id": "caa1a7231cd888c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic Macroinvertebrates.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f42bc31115afcee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic Macroinvertebrates.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f97f188f0a31b082",
+        "type": "split",
+        "dimension": 26.972281449893394,
+        "children": [
+          {
+            "id": "82452e0bf5464a69",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "295674b8108da633",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Aquatic Macroinvertebrates.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "485603aaed266620",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8e4071628d20a67",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Aquatic Macroinvertebrates.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.088142264308861,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6b4785d146604a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e71bd257f492ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36ebf5c5c143f9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3048b48c1d6cd9cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb0284f2736dd4f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0455d238620c116b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6874548977308551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "211ba34ab0fa51bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aquatic Macroinvertebrates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "697a94ca507ac668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aquatic Macroinvertebrates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d5fa344fb11a345",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04c2a328016ffc91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aquatic Macroinvertebrates.md"
+              }
+            }
+          },
+          {
+            "id": "0d101c3e976930e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "049e1c7ff792480b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 629.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "caa1a7231cd888c1",
+  "lastOpenFiles": [
+    "Compounds and Bonds.md",
+    "CHEM-101, Intro to Chemistry.md",
+    "Sedimentary rocks.md",
+    "Metamorphic Rock.md",
+    "The Atom.md",
+    "Aquatic Macroinvertebrates.md",
+    "Water.md",
+    "ENVS-201 Plant and Animal Identification.md",
+    "Matter.md",
+    "The Periodic Table.md",
+    "IMG_0010.jpg",
+    "Element.md",
+    "Series and Sequences.md",
+    "Series Convergence Tests.md",
+    "Pasted image 20241022154942.png",
+    "Pasted image 20241022154938.png",
+    "Pasted image 20241022154928.png",
+    "Rocks.md",
+    "Pasted image 20241022143952.png",
+    "Limit Comparison Test.md",
+    "Direct Comparison Test.md",
+    "ENVS-101 Intro to Environmental Science.md",
+    "Ecosystems.md",
+    "Integral Test.md",
+    "P Series.md",
+    "Harmonic Series.md",
+    "Geometric Series.md",
+    "Floral Structure Identification.md",
+    "Divergence Test.md",
+    "Screenshot 2024-10-17 at 8.44.36 PM.png",
+    "dskflj.md",
+    "Absolute Convergence.md",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Screenshot 2024-10-17 at 3.07.50 PM.png",
+    "Pasted image 20241017132318.png",
+    "Pasted image 20241017111116.png",
+    "Pasted image 20241016211827.png",
+    "Templates",
+    "GEO 101_F2024_syllabus(1).pdf",
+    "CHEM 101_Syllabus_F24.pdf",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Data Structures",
+    "Quotes",
+    "main",
+    "Obsidian-Vault",
+    "Quotes"
+  ]
+}

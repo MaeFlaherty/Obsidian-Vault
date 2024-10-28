@@ -1,0 +1,423 @@
+{
+  "workspaces": {
+    "Linking": {
+      "main": {
+        "id": "1a77d98acd58f7ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "20b72ca457fa2bb1",
+            "type": "tabs",
+            "dimension": 73.50136239782016,
+            "children": [
+              {
+                "id": "70807490a5feea8a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "group": "e1ae53a13ab299b7"
+              }
+            ]
+          },
+          {
+            "id": "02f7a79d44d6349a",
+            "type": "split",
+            "dimension": 26.498637602179837,
+            "children": [
+              {
+                "id": "037e6c934518e17c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9b9fa7d559291565",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Chemical Bonds.md",
+                        "collapseAll": false,
+                        "extraContext": true,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "e1ae53a13ab299b7"
+                  }
+                ]
+              },
+              {
+                "id": "92f57046e7b1dd3c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bef812233e15851a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Chemical Bonds.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 2,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [
+                            {
+                              "query": "Geology",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14701138
+                              }
+                            },
+                            {
+                              "query": "",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14725458
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": -3,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.5129460701488774,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "e1ae53a13ab299b7"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d6b4785d146604a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "34e71bd257f492ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e36ebf5c5c143f9a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3048b48c1d6cd9cb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cb0284f2736dd4f9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "0455d238620c116b",
+        "type": "split",
+        "children": [
+          {
+            "id": "6874548977308551",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "211ba34ab0fa51bf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "697a94ca507ac668",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2d5fa344fb11a345",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "04c2a328016ffc91",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "yet-another-obsidian-synchronizer:YAOS": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "70807490a5feea8a",
+      "mtime": "2024-10-04T12:00:11-04:00"
+    },
+    "Note review": {
+      "main": {
+        "id": "1a77d98acd58f7ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "20b72ca457fa2bb1",
+            "type": "tabs",
+            "dimension": 18.390191897654585,
+            "children": [
+              {
+                "id": "70807490a5feea8a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CHEM-101, Intro to Chemistry.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3854055b4134801e",
+            "type": "tabs",
+            "dimension": 81.60980810234541,
+            "children": [
+              {
+                "id": "a63563d2f481f2e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Atomic Theory.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d6b4785d146604a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "34e71bd257f492ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e36ebf5c5c143f9a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3048b48c1d6cd9cb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cb0284f2736dd4f9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "0455d238620c116b",
+        "type": "split",
+        "children": [
+          {
+            "id": "6874548977308551",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "211ba34ab0fa51bf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "The Atomic Theory.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "697a94ca507ac668",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "The Atomic Theory.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2d5fa344fb11a345",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "04c2a328016ffc91",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "The Atomic Theory.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "yet-another-obsidian-synchronizer:YAOS": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "a63563d2f481f2e6",
+      "mtime": "2024-10-04T12:00:51-04:00"
+    }
+  },
+  "active": "Linking"
+}
