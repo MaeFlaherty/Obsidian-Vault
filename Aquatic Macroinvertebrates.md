@@ -12,6 +12,8 @@ includes insects, crustaceans, and some other groups.
 # Insects and Water Quality Monitoring
 The kind of insects living in a body of water, and the health of these populations provides vital information on water quality and the presence or absence of pollution. 
 
+Sensitive species of insects(EPT)
+
 Biological monitoring is dependent on accurate Identification of these species. 
 
 Physical, Chemical, and Biological Measurements of water quality, taken together, can provide a more accurate picture of the quality of a given water system. 
