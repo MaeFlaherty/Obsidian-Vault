@@ -26,7 +26,6 @@ This gives metals a number of unique properties, like conductivity, ductility/ma
 even though ionic bonds dont form molecules, we can still represent the structures they create. the chemical formula of an ionic compound represents the ions ratio per structure to give a neutral structure overall. $$Na^+Cl^-$$
 This is known as a formula unit
 
-
 ## Structural formula
 
 
