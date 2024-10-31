@@ -32,5 +32,30 @@ Early in the earth's existence, another planetoid crashed into it with incredibl
 When the moon and the earth collided, a part of the moons core was left on earth, causing this strange relationship.
 
 
+# Geologic Time Periods
+
+## Hadean(4.56-4.0 Ga)
+Earth Starts as a ball of fire, the first seas form, and earth is continuously struck by meteorites. 
+- 4.53 Ga: Formation of the moon
+- 4.4 Ga: First Liquid Oceans and continents
+- 4.0 Ga: Start of plate tectonics?
+## Archaean
+- Continental Crust begins to assemble
+- Traces of fossil life as old as ~4.0 Ga
+- Evidence of photosynthesis in 3.5 Ga
+- 3.45 Ga: Stromatolites(Mounds of carbonates left by cyanobacteria or other bacteria)
+## Proterozoic
+
+## Cambrian Explosion
+
+## Mesozoic
+
+## Cenozoic
+
+## The Modern World
+
+
+
+
 # Related Notes
 [[Earth's Structure]]
