@@ -45,9 +45,23 @@ Earth Starts as a ball of fire, the first seas form, and earth is continuously s
 - Evidence of photosynthesis in 3.5 Ga
 - 3.45 Ga: Stromatolites(Mounds of carbonates left by cyanobacteria or other bacteria)
 ## Proterozoic
+- Named before Archaean life was discovered
+- Great Oxidation Event(2.45-2.2 Ga) Theorized to be caused by the "Snowball Earth"
+- Late Proterozoic: First Multicelllar animals emerge(Zooplankton)
+- Bilatteral Symmetry develops
+## Paleozoic Era
+
+
 
 ## Cambrian Explosion
+- Earliest Vertebrates emerge
 
+## Ordovician
+- Land Plants Begin to colonize the earth
+- reef building organisms emerge
+
+## Devonian
+- Fish diversify rapidly, and join plants and insects on land
 ## Mesozoic
 
 ## Cenozoic
