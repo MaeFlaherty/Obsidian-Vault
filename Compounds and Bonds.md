@@ -32,5 +32,9 @@ This is known as a formula unit
 ## Ball and stick
 
 
-## 
+# Predicting charges in ionic compounds
+
+# 
+
+# Atomic Mass vs Formula Mass
 
