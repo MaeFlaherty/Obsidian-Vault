@@ -38,3 +38,5 @@ This is known as a formula unit
 
 # Atomic Mass vs Formula Mass
 
+## Calculating the molar mass of compounds
+
