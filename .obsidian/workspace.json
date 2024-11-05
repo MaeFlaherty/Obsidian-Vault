@@ -12,8 +12,13 @@
             "id": "caa1a7231cd888c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Water.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -45,7 +50,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Water.md"
+                  }
                 }
               }
             ]
@@ -60,6 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Water.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -159,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Water.md"
+              }
             }
           },
           {
@@ -243,10 +255,10 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "ENVS-101 Intro to Environmental Science.md",
     "Earth's Origins.md",
     "Compounds and Bonds.md",
     "CHEM-101, Intro to Chemistry.md",
-    "ENVS-101 Intro to Environmental Science.md",
     "Evolution.md",
     "Aquatic Macroinvertebrates.md",
     "Sedimentary rocks.md",
