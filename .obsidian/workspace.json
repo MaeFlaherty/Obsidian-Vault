@@ -14,10 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "Compounds and Bonds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8ead7e095e3195bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "494310a8bfcb5a56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md"
               }
             }
           },
@@ -34,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f97f188f0a31b082",
@@ -51,7 +72,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "GEO-101, Intro to Geology.md"
+                    "file": "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md"
                   }
                 }
               }
@@ -67,7 +88,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "GEO-101, Intro to Geology.md",
+                    "file": "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -167,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEO-101, Intro to Geology.md",
+                "file": "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEO-101, Intro to Geology.md"
+                "file": "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md"
               }
             }
           },
@@ -253,12 +274,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "caa1a7231cd888c1",
+  "active": "8ead7e095e3195bc",
   "lastOpenFiles": [
+    "Compounds and Bonds.md",
+    "Excalidraw/Drawing 2024-11-08 11.23.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
+    "GEO-101, Intro to Geology.md",
     "Water.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Earth's Origins.md",
-    "Compounds and Bonds.md",
     "CHEM-101, Intro to Chemistry.md",
     "Evolution.md",
     "Aquatic Macroinvertebrates.md",
@@ -283,9 +307,6 @@
     "Integral Test.md",
     "P Series.md",
     "Harmonic Series.md",
-    "Geometric Series.md",
-    "Floral Structure Identification.md",
-    "Divergence Test.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
     "Untitled 6.canvas",
     "Untitled 5.canvas",

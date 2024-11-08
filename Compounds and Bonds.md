@@ -20,19 +20,27 @@ like ionic bonds, Metallic Bonds do not form molecules
 
 This gives metals a number of unique properties, like conductivity, ductility/malleability, and magnetism.
 
+# Predicting charges in ionic compounds
+Metals tend to form cations, while non-metals tend to form anions. these then combine in factors to form an ionic compound. 
+
+for example, calcium will form a +2 cation, and chlorine will form a -1 anion, so they will combine to form the ionic compound $CaCl_2$.
+
 # How do we Represent Chemical Bonds?
 ## Molecular Formula
 ### Ionic Compounds
 even though ionic bonds dont form molecules, we can still represent the structures they create. the chemical formula of an ionic compound represents the ions ratio per structure to give a neutral structure overall. $$Na^+Cl^-$$
 This is known as a formula unit
 
-## Structural formula
+## Lewis Structures
+you can represent a single element in a lewis structure by drawing a series of dots representing the atom's valence electrons around it. 
+
+![[Drawing 2024-11-08 11.06.33.excalidraw]]
+since covalent bonds wish to form an octet by sharing electrons, you can also represent molecular compounds using the same lewis structures.
 
 
-## Ball and stick
 
 
-# Predicting charges in ionic compounds
+
 
 # 
 
