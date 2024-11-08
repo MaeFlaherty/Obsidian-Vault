@@ -37,9 +37,13 @@ you can represent a single element in a lewis structure by drawing a series of d
 ![[Drawing 2024-11-08 11.06.33.excalidraw]]
 since covalent bonds wish to form an octet by sharing electrons, you can also represent molecular compounds using the same lewis structures.
 
+![[Lewis_Bond.excalidraw]]
+Each bond(Dash) represents 2 shared valence electrons. Bonding like this allows oxygen to form an Octet, which is a preferred and stable structure, along with a duet which occurs mostly in helium. 
 
+## The Octet Rule
+When atoms form covalent bonds, they gravitate towards sharing electrons to form an Octet or a Duet, so that each atom has 8 valence electrons.
 
-
+To do this, they will form single, double, or triple bonds. 
 
 
 # 
