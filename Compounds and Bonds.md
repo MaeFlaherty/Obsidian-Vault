@@ -50,9 +50,11 @@ Sometimes, to satisfy the octet rule, compounds can gain a charge. these compoun
 ![[Compounds and Bonds 2024-11-08 11.55.22.excalidraw]]
 But, if you take one electron away, giving the compound a positive charge, it becomes more stable, not less, allowing it to exist in solution. 
 ![[Compounds and Bonds 2024-11-08 11.57.30.excalidraw]]
+## Octet Rule Exceptions
 
+## Molecular Geometry
 
-
+## Polarity
 
 
 # 
