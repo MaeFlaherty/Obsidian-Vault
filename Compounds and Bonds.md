@@ -45,12 +45,13 @@ When atoms form covalent bonds, they gravitate towards sharing electrons to form
 
 To do this, they will form single, double, or triple bonds. 
 
-## Polyatomic Ions
+### Polyatomic Ions
 Sometimes, to satisfy the octet rule, compounds can gain a charge. these compounds are known as polyatomic ions(not molecular compounds, as molecular compounds are neutral), and are usually unstable, though they can be stabilized in a solution in real life. for example, $H_3O$ does not satisfy the octet rule, as the oxygen would have 9 electrons
 ![[Compounds and Bonds 2024-11-08 11.55.22.excalidraw]]
 But, if you take one electron away, giving the compound a positive charge, it becomes more stable, not less, allowing it to exist in solution. 
 ![[Compounds and Bonds 2024-11-08 11.57.30.excalidraw]]
 ## Octet Rule Exceptions
+
 
 ## Molecular Geometry
 

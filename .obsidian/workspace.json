@@ -20,59 +20,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe2def203fd2fc3d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f6172c1347223810",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Compounds and Bonds 2024-11-08 11.55.22.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8ead7e095e3195bc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Lewis_Bond.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "494310a8bfcb5a56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f42bc31115afcee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aquatic Macroinvertebrates.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -294,10 +241,10 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
-    "Compounds and Bonds.md",
-    "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.55.22.excalidraw.md",
+    "Compounds and Bonds.md",
+    "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
+    "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
     "Excalidraw/Lewis_Bond.excalidraw.md",
     "GEO-101, Intro to Geology.md",
     "Water.md",
