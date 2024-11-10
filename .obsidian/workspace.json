@@ -12,9 +12,12 @@
             "id": "caa1a7231cd888c1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md"
+                "file": "Compounds and Bonds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -88,7 +91,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md"
+                    "file": "Compounds and Bonds.md"
                   }
                 }
               }
@@ -104,7 +107,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
+                    "file": "Compounds and Bonds.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -203,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
+                "file": "Compounds and Bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
+                "file": "Compounds and Bonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md"
+                "file": "Compounds and Bonds.md"
               }
             }
           },
@@ -291,11 +294,11 @@
   },
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
     "Compounds and Bonds.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.55.22.excalidraw.md",
     "Excalidraw/Lewis_Bond.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
     "GEO-101, Intro to Geology.md",
     "Water.md",
     "ENVS-101 Intro to Environmental Science.md",
