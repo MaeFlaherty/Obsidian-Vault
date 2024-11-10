@@ -12,8 +12,13 @@
             "id": "caa1a7231cd888c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compounds and Bonds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -85,7 +90,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Compounds and Bonds.md"
+                  }
                 }
               }
             ]
@@ -100,6 +107,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Compounds and Bonds.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -181,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "0455d238620c116b",
@@ -197,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compounds and Bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,6 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Compounds and Bonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +245,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compounds and Bonds.md"
+              }
             }
           },
           {
@@ -279,7 +292,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e36ebf5c5c143f9a",
+  "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
     "Compounds and Bonds.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
