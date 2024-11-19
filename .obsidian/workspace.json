@@ -249,12 +249,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "da25049df64c3716",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f064970a89f55f2c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -279,7 +299,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "423620a680042009",
+  "active": "f064970a89f55f2c",
   "lastOpenFiles": [
     "ENVS-201 Plant and Animal Identification.md",
     "Mollusks.md",
