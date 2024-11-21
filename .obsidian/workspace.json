@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mollusks.md",
+                "file": "Minerals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mollusks"
+              "title": "Minerals"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Release Notes 1.7.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f97f188f0a31b082",
@@ -52,9 +51,11 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {},
+                  "state": {
+                    "file": "Minerals.md"
+                  },
                   "icon": "lucide-list",
-                  "title": "Outline"
+                  "title": "Outline of Minerals"
                 }
               }
             ]
@@ -69,6 +70,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Minerals.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -96,7 +98,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Graph of Minerals"
                 }
               }
             ]
@@ -309,16 +311,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6c860fd3c0a8de63",
+  "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
-    "ENVS-201 Plant and Animal Identification.md",
+    "GEO-101, Intro to Geology.md",
     "Mollusks.md",
+    "ENVS-201 Plant and Animal Identification.md",
     "Compounds and Bonds.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.55.22.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
     "Excalidraw/Lewis_Bond.excalidraw.md",
-    "GEO-101, Intro to Geology.md",
     "Water.md",
     "ENVS-101 Intro to Environmental Science.md",
     "Earth's Origins.md",
