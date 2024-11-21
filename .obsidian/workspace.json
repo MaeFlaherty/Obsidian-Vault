@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minerals.md",
+                "file": "Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minerals"
+              "title": "Rocks"
             }
           },
           {
@@ -52,10 +52,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Minerals.md"
+                    "file": "Rocks.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Minerals"
+                  "title": "Outline of Rocks"
                 }
               }
             ]
@@ -70,7 +70,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Minerals.md",
+                    "file": "Rocks.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -98,7 +98,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Minerals"
+                  "title": "Graph of Rocks"
                 }
               }
             ]
@@ -314,6 +314,8 @@
   "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
     "GEO-101, Intro to Geology.md",
+    "Plate Tectonics.md",
+    "Minerals.md",
     "Mollusks.md",
     "ENVS-201 Plant and Animal Identification.md",
     "Compounds and Bonds.md",
@@ -342,8 +344,6 @@
     "Rocks.md",
     "Pasted image 20241022143952.png",
     "Limit Comparison Test.md",
-    "Direct Comparison Test.md",
-    "Ecosystems.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
