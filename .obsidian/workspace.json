@@ -281,12 +281,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2c59135c2c26cb4d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -311,7 +321,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "caa1a7231cd888c1",
+  "active": "2c59135c2c26cb4d",
   "lastOpenFiles": [
     "GEO-101, Intro to Geology.md",
     "Plate Tectonics.md",
