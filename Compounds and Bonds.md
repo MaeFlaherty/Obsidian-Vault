@@ -5,7 +5,7 @@ A chemical bond is the force that holds the atoms of a compound together.
 ## Ionic Bonds
 Atoms(metal and nonmetal)transfer electrons between them, forming a 3d lattice of anions and cations
 
-Ionic Bonds **Do not Form Molecules**
+Ionic Bonds **Do not Form Molecules**, they form 3d lattice structures that stick together. 
 
 
 

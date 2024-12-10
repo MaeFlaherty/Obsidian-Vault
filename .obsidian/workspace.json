@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocks.md",
+                "file": "The Atom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rocks"
+              "title": "The Atom"
             }
           },
           {
@@ -52,10 +52,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Rocks.md"
+                    "file": "The Atom.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Rocks"
+                  "title": "Outline of The Atom"
                 }
               }
             ]
@@ -70,7 +70,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Rocks.md",
+                    "file": "The Atom.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -93,12 +93,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.088142264308861,
+                      "scale": 0.50704574325349,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Rocks"
+                  "title": "Graph of The Atom"
                 }
               }
             ]
@@ -341,14 +341,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c834552637ccdfd2",
+  "active": "caa1a7231cd888c1",
   "lastOpenFiles": [
+    "Compounds and Bonds.md",
+    "Rocks.md",
     "GEO-101, Intro to Geology.md",
     "Plate Tectonics.md",
     "Minerals.md",
     "Mollusks.md",
     "ENVS-201 Plant and Animal Identification.md",
-    "Compounds and Bonds.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.55.22.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
@@ -371,7 +372,6 @@
     "Pasted image 20241022154942.png",
     "Pasted image 20241022154938.png",
     "Pasted image 20241022154928.png",
-    "Rocks.md",
     "Pasted image 20241022143952.png",
     "Limit Comparison Test.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
