@@ -16,8 +16,7 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            },
-            "group": "35f80ca6cc24f6cf"
+            }
           },
           {
             "id": "477b96564e03653c",
@@ -52,12 +51,11 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Energy.md"
+                    "file": "Lecture 1.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Energy"
-                },
-                "group": "35f80ca6cc24f6cf"
+                  "title": "Outline of Lecture 1"
+                }
               }
             ]
           },
@@ -94,7 +92,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.041816713762615,
+                      "scale": 1.1200001787932674,
                       "close": true
                     }
                   },
@@ -372,7 +370,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7c332fe88b8226ca",
+  "active": "477b96564e03653c",
   "lastOpenFiles": [
     "Molecular Geometry.md",
     "Lecture 1.md",
