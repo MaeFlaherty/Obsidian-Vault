@@ -6,7 +6,7 @@
       {
         "id": "1375bf2c6e77045e",
         "type": "tabs",
-        "dimension": 73.02771855010661,
+        "dimension": 66.4850136239782,
         "children": [
           {
             "id": "caa1a7231cd888c1",
@@ -22,54 +22,58 @@
             "id": "875d808b6f0e98a2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "35f80ca6cc24f6cf"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "f97f188f0a31b082",
+        "id": "f688d8fe62a1abfb",
         "type": "split",
-        "dimension": 26.972281449893394,
+        "dimension": 33.5149863760218,
         "children": [
           {
-            "id": "82452e0bf5464a69",
+            "id": "98da1bbd6f9bdd21",
             "type": "tabs",
             "children": [
               {
-                "id": "295674b8108da633",
+                "id": "2fa92221671fc5f0",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {},
+                  "state": {
+                    "file": "Energy.md"
+                  },
                   "icon": "lucide-list",
-                  "title": "Outline"
-                }
+                  "title": "Outline of Energy"
+                },
+                "group": "35f80ca6cc24f6cf"
               }
             ]
           },
           {
-            "id": "485603aaed266620",
+            "id": "68ce8dfab6248b76",
             "type": "tabs",
             "children": [
               {
-                "id": "e8e4071628d20a67",
+                "id": "7c332fe88b8226ca",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Energy.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": true,
+                      "localInterlinks": false,
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
@@ -77,21 +81,22 @@
                       "colorGroups": [],
                       "collapse-display": false,
                       "showArrow": false,
-                      "textFadeMultiplier": -3,
+                      "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
+                      "collapse-forces": true,
                       "centerStrength": 0.518713248970312,
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.50704574325349,
+                      "scale": 1.479863131087376,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
+                  "title": "Graph of Energy"
+                },
+                "group": "35f80ca6cc24f6cf"
               }
             ]
           }
@@ -316,9 +321,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "0262c9687e468252",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -343,9 +358,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "caa1a7231cd888c1",
+  "active": "875d808b6f0e98a2",
   "lastOpenFiles": [
+    "Energy.md",
     "The Atom.md",
+    "Showing mom how to use this.md",
     "Compounds and Bonds.md",
     "Rocks.md",
     "GEO-101, Intro to Geology.md",
@@ -370,12 +387,10 @@
     "IMG_0010.jpg",
     "Element.md",
     "Series and Sequences.md",
-    "Series Convergence Tests.md",
     "Pasted image 20241022154942.png",
     "Pasted image 20241022154938.png",
     "Pasted image 20241022154928.png",
     "Pasted image 20241022143952.png",
-    "Limit Comparison Test.md",
     "Screenshot 2024-10-17 at 8.44.36 PM.png",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
