@@ -19,16 +19,6 @@
             }
           },
           {
-            "id": "477b96564e03653c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "3243f18ba0117cb0",
             "type": "leaf",
             "state": {
@@ -41,6 +31,21 @@
               },
               "icon": "lucide-file",
               "title": "ENVS 308"
+            }
+          },
+          {
+            "id": "013763cb5f74414a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural History Museum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natural History Museum"
             }
           }
         ],
@@ -61,10 +66,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "ENVS 308.md"
+                    "file": "Natural History Museum.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of ENVS 308"
+                  "title": "Outline of Natural History Museum"
                 }
               }
             ]
@@ -79,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ENVS 308.md",
+                    "file": "Natural History Museum.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -107,7 +112,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of ENVS 308"
+                  "title": "Graph of Natural History Museum"
                 }
               }
             ]
@@ -380,8 +385,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3243f18ba0117cb0",
+  "active": "013763cb5f74414a",
   "lastOpenFiles": [
+    "Natural History Collections.md",
+    "Natural History Museum.md",
     "ENVS 308.md",
     "Lecture 1.md",
     "Molecular Geometry.md",
@@ -406,8 +413,6 @@
     "CHEM-101, Intro to Chemistry.md",
     "Evolution.md",
     "Aquatic Macroinvertebrates.md",
-    "Sedimentary rocks.md",
-    "Metamorphic Rock.md",
     "IMG_0010.jpg",
     "Pasted image 20241022154942.png",
     "Pasted image 20241022154938.png",
