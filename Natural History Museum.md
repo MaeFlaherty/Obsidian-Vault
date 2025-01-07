@@ -21,11 +21,11 @@ Specimens are collected and stored for:
 
 ### Specimens vs photos
 
-Specimen: genetic material, Actual size/scale
+Specimen: genetic material, Actual size/scale, microscopic structure/morphology, chemical composition, age data
 
 Photo: Color/3d information(specimen's state pre preservation), less invasive, more accessible
 
-Both: Morphology, Location, Habitat, Date/time,
+Both: Morphology, Location, Habitat, Date/time, ecological interactions, change over time(Evolution, mutation, adaptations, etc)
 
 ## History of Natural History collections
 
