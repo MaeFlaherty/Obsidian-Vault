@@ -43,5 +43,7 @@ Natural history is inextricably tied to human history
 
 
 ## History of Natural History collections
+originally created as aid for medical education(medicinal plants and how to find/identify them) 
 
+Started pressing plants into a book to record more detailed data
 # Digitization of natural history collections
