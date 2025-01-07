@@ -27,6 +27,21 @@ Photo: Color/3d information(specimen's state pre preservation), less invasive, m
 
 Both: Morphology, Location, Habitat, Date/time, ecological interactions, change over time(Evolution, mutation, adaptations, etc)
 
+## Additional Data
+In the modern day, different types of data are often collected alongside a physical specimen
+- Field Notes/Location Data
+- Photos/Videos
+- Sound Recordings(Animals)
+- Genetic Vouchers/tissue samples(destroyed during analysis)
+## Specimen Identification
+Over the course of natural history collections, the way we identify species has changed. Specimens are associated with a record of who studied them and how they were identified at the time, as well as when the identification was changed. 
+
+## Other values of a Natural History specimen
+specimens may also have cultural, social, and historical value
+
+Natural history is inextricably tied to human history
+
+
 ## History of Natural History collections
 
 # Digitization of natural history collections
