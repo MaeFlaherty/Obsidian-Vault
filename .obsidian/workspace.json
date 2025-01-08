@@ -54,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community and Ecosystem Ecology.md",
+                "file": "CHEM-102.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Community and Ecosystem Ecology"
+              "title": "CHEM-102"
             }
           }
         ],
@@ -81,10 +81,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Community and Ecosystem Ecology.md"
+                    "file": "CHEM-102.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Community and Ecosystem Ecology"
+                  "title": "Outline of CHEM-102"
                 }
               }
             ]
@@ -99,7 +99,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Community and Ecosystem Ecology.md",
+                    "file": "CHEM-102.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -127,7 +127,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Community and Ecosystem Ecology"
+                  "title": "Graph of CHEM-102"
                 }
               }
             ]
@@ -402,8 +402,8 @@
   },
   "active": "1c244b45ff7faab5",
   "lastOpenFiles": [
-    "Natural History Museum.md",
     "Community and Ecosystem Ecology.md",
+    "Natural History Museum.md",
     "Natural History Collections.md",
     "ENVS 308.md",
     "Lecture 1.md",
