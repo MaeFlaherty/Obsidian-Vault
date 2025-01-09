@@ -13,10 +13,11 @@ Always think about audience
 ## Background/Intro
 Establish the general concept of wht you are studying, any relevant background information about your specific hypothesis, and why studying this fills a gap in scientific knowledge.
 
-- **And** Place the Project
-- **But** Identify Knowledge gap
-- **Therefore** Establish Importance
+- **And** Place the Project: Link the subject of your study and the thing you are studying about that subject. Specificity depends on question
+- **But** Identify Knowledge gap: Explain the "problem" with existing knowledge on the topic
+- **Therefore** Establish Importance: Introduce solution to the problem established above. This should be a direct statement of your objective
 ## Objectives
+Expand on the objective establishen 
 
 ## Methods
 
