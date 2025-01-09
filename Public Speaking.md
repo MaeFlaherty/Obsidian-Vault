@@ -15,3 +15,7 @@ theory that people fall into one of 12-14 value groups, which inform how they re
 ## Social Dynamics
 
 Language codes, Idealized Social Group, Parental influence, Attention Triggers, Psychological Vulnerabilities
+
+Core Values: people hear what they want to hear, and discard the rest.
+
+[[Introduction speech]]
