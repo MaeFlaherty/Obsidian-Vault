@@ -17,8 +17,15 @@ Establish the general concept of wht you are studying, any relevant background i
 - **But** Identify Knowledge gap: Explain the "problem" with existing knowledge on the topic
 - **Therefore** Establish Importance: Introduce solution to the problem established above. This should be a direct statement of your objective
 ## Objectives
-Expand on the objective establishen 
+Expand on the objective established in your introduction, Tell the reader what you plan to do, and include your hypothesis at the end. 
 
 ## Methods
+Outline the way you will go about conducting oyur experiment(location, why you chose it, etc)
 
+Explain specifically what you will do at the site to prove your hypothesis(dependent/independent variable)
+
+### Experimental Design
+Identify a quantifiable form of data that answers your hypothesis, and explain how you will collect it.
+
+Establish if experiment will be manipulative or observational
 ## Outcomes
