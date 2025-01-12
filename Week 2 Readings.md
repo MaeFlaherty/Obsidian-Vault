@@ -20,7 +20,10 @@
 - Machines associated with women broke a male connection with female nature, thus creating an almost domestic drama
 - Older, Peasant/Masculiune labor was not nessecarily better for the environment. 
 - "A connection with the land through work creates knowledge, but it does not necessarily grant protection to the land itself"
-- condemning work 
+- condemning all work marks environmentalists as a privileged leisure class, glorifying archaic work marks them as reactionaries. 
+- "sometimes work is destructive and restorative at the same time, as when we cut or burn a meadow to prevent the encroachment of forest"
+- rejection of technology is not a solution to modern environmental problems.
+- 
 
 ## Thoughts
 - Not all forms of work are equal in terms of destruction/benefit to the environment(The result of the labor matters)
