@@ -3,4 +3,6 @@
 - Conflict Between Outdoor Labor and Environmentalism
 - Conflation of Labor with Destruction
 - To Work in Nature is a form of Knowing it
+- Work vs Play in Nature
+- Environmentalists are typically aligned against work and for play(Play saved my life)
 - 
