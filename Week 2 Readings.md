@@ -66,4 +66,6 @@
 - We remember wilderness like we remember the trojan war
 - The people who inhabited this frontier became legendary figures of idealized masculinity(Cowboys, Davy Crockett, etc)
 - They are both a civilizing force and a symbol of the natural world we feel that we have lost. Striking out to know and fight against nature.
+- A lot of these writings highlight the conflict of what we do versus what we Idealize; Every action we take on land can be seen as a civilizing force, but we glorify nature as a sacred, untouchable presence. 
+- Cronon likes this idea of masculine humans and a feminine nature, creating a gendered idea of environmentalism
 - 
