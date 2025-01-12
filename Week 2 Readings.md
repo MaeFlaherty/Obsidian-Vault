@@ -18,16 +18,23 @@
 - Machines and the feminization of work(cunty combine harvester)
 - Nature defining manhood
 - Machines associated with women broke a male connection with female nature, thus creating an almost domestic drama
-- Older, Peasant/Masculiune labor was not nessecarily better for the environment. 
+- Older, Peasant/Masculine labor was not nessecarily better for the environment. 
 - "A connection with the land through work creates knowledge, but it does not necessarily grant protection to the land itself"
 - condemning all work marks environmentalists as a privileged leisure class, glorifying archaic work marks them as reactionaries. 
 - "sometimes work is destructive and restorative at the same time, as when we cut or burn a meadow to prevent the encroachment of forest"
 - rejection of technology is not a solution to modern environmental problems.
-- 
+- his office and the mountain view are separate parts of his life; They are not connected. In the office he is in control, outside he is not.
+- "My body, the nature in me, would rebel... I do not face what I alter, and so I do not learn from it"
+- Work, then, is where we should begin
 
 ## Thoughts
 - Not all forms of work are equal in terms of destruction/benefit to the environment(The result of the labor matters)
 - Play is arguably just as important, and a valid way to know nature, even if it is overemphasized
 - Read river of traps
-- Modern environmentalists, like most people today, are alienated from the land as a by product of capitalism. This alienation is typically solved through play, creating the lack of respect for outdoor labor because of a lack of knowledge of it(it's hard to recognize how working outdoors makes you feel if you work in a climate controlled, sterile starbucks all day)
-- 
+- Modern environmentalists, like most people today, are alienated from the land as a by product of capitalism. This alienation is typically solved through play, creating the lack of respect for outdoor labor because of a lack of knowledge of it(it's hard to recognize how working outdoors makes you feel if you work in a climate controlled, sterile starbucks all day) This connects to the idea of the office and the mountains being divorced from each other, but a typical worker is not in control in either location.
+
+# 
+
+## Themes/Observations
+
+## Thoughts
