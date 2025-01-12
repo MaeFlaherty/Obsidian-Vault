@@ -1,4 +1,4 @@
-# Are You an Environmentalist or do you Work For a Living?
+# Are You an Environmentalist or do you Work For a Living?, William Cronon
 
 ## Themes/Observations
 
@@ -33,8 +33,13 @@
 - Read river of traps
 - Modern environmentalists, like most people today, are alienated from the land as a by product of capitalism. This alienation is typically solved through play, creating the lack of respect for outdoor labor because of a lack of knowledge of it(it's hard to recognize how working outdoors makes you feel if you work in a climate controlled, sterile starbucks all day) This connects to the idea of the office and the mountains being divorced from each other, but a typical worker is not in control in either location.
 
-# 
+# The Trouble With Wilderness, William Cronon
 
 ## Themes/Observations
+- "For many Americans wilderness stands as the last remaining place where civilization, that all too human disease, has not fully infected the earth. It is an island in the polluted sea of urban-industrial modernity, the one place we can turn for escape from our own too-muchness. Seen in this way, wilderness presents itself as the best antidote to our human selves, a refuge we must somehow recover if we hope to save the planet. As Henry David Thoreau once famously declared, “In Wildness is the preservation of the World.” "
+- The idea of wilderness is a product of civilization
+- "we too easily imagine that what we behold is Nature when in fact we see the reflection of our own unexamined longings and desires"
+- Sense of place is largely imagined, wilderness or otherwise (Perceived rurality  https://www.youtube.com/watch?v=6q_BE5KPp18)
+- Wilderness isnt quite nature, in the bible it was used to refer to places on the edge of civilization
 
 ## Thoughts
