@@ -41,5 +41,11 @@
 - "we too easily imagine that what we behold is Nature when in fact we see the reflection of our own unexamined longings and desires"
 - Sense of place is largely imagined, wilderness or otherwise (Perceived rurality  https://www.youtube.com/watch?v=6q_BE5KPp18)
 - Wilderness isnt quite nature, in the bible it was used to refer to places on the edge of civilization
+- Because it is an imagined place, the definition of wilderness is constantly changing based on our collective cultural perception of the natural world in opposition to civilization.
+- The wilderness was where Christ had struggled with the devil and endured his temptations: “And immediately the Spirit driveth him into the wilderness. And he was there in the wilderness for forty days tempted of Satan; and was with the wild beasts; and the angels ministered unto him.” (5) The “delicious Paradise” of John Milton’s Eden was surrounded by “a steep wilderness, whose hairy sides /Access denied” to all who sought entry.” When Adam and Eve were driven from that garden, the world they entered was a wilderness that only their labor and pain could redeem. Wilderness, in short, was a place to which one came only against one’s will, and always in fear and trembling ... In its raw state, it had little or nothing to offer civilized men and women."
+- But by the end of the nineteenth century, all this had changed. The wastelands that had once seemed worthless had for some people come to seem almost beyond price. That Thoreau in 1862 could declare wildness to be the preservation of the world suggests the sea change that was going on. Wilderness had once been the antithesis of all that was orderly and good—it had been the darkness, one might say, on the far side of the garden wall—and yet now it was frequently likened to Eden itself
+- Changing of wilderness portrayed as improvement vs vandalism, changed in the twentieth century
+- 
 
 ## Thoughts
+- Our perception of wilderness as wasted land or pristine nature that should be protected goes hand in hand with the awareness of our ability to alter the natural world, for worse or for better( Jonas Thesis)
