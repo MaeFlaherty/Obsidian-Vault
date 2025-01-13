@@ -22,10 +22,15 @@
             "id": "865ce9714a1fe01e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 Readings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 Readings"
             }
           },
           {
@@ -44,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f688d8fe62a1abfb",
@@ -61,10 +66,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Introduction speech.md"
+                    "file": "Week 2 Readings.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Introduction speech"
+                  "title": "Outline of Week 2 Readings"
                 }
               }
             ]
@@ -79,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Introduction speech.md",
+                    "file": "Week 2 Readings.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -107,7 +112,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Introduction speech"
+                  "title": "Graph of Week 2 Readings"
                 }
               }
             ]
@@ -380,10 +385,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ee587d83ea8aef50",
+  "active": "865ce9714a1fe01e",
   "lastOpenFiles": [
-    "Public Speaking.md",
     "Introduction speech.md",
+    "Public Speaking.md",
     "Week 2 Readings.md",
     "Philosophy 341.md",
     "Dischidia Reading.md",
