@@ -68,6 +68,10 @@
 - "The tautology gives us no way out: if wild nature is the only thing worth saving, and if our mere presence destroys it, then the sole solution to our own unnaturalness, the only way to protect sacred wilderness from profane humanity, would seem to be suicide. It is not a proposition that seems likely to produce very positive or practical results."
 - This does not mean returning to animal
 - Wilderness has a class affiliation too; Poor people who cannot travel or do not have time to take off work or money for equipment lose access to wilderness.
+- To fight this alienation of nature, we can look to the wilderness in the places we actually live; A tree behind your house, a small pond 
+- "By teaching us to fetishize sublime places and wide open country, these peculiarly American ways of thinking about wilderness encourage us to adopt too high a standard for what counts as “natural.” If it isn’t hundreds of square miles big, if it doesn’t give us God’s eye views or grand vistas, if it doesn’t permit us the illusion that we are alone on the planet, then it really isn’t natural. It’s too small, too plain, or too crowded to be authentically wild." This was EXACTLY my problem with Thoreau!!!
+- "Any way of looking at nature that encourages us to believe we are separate from nature—as wilderness tends to do—is likely to reinforce environmentally irresponsible behavior. On the other band, I also think it no less crucial for us to recognize and honor nonhuman nature as a world we did not create, a world with its own independent, nonhuman reasons for being as it is."
+- 
  
 ## Thoughts
 - Our perception of wilderness as wasted land or pristine nature that should be protected goes hand in hand with the awareness of our ability to alter the natural world, for worse or for better( Jonas Thesis)
