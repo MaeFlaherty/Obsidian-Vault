@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 Readings.md",
+                "file": "Introduction speech.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 Readings"
+              "title": "Introduction speech"
             }
           }
         ],
@@ -61,10 +61,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Week 2 Readings.md"
+                    "file": "Introduction speech.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Week 2 Readings"
+                  "title": "Outline of Introduction speech"
                 }
               }
             ]
@@ -79,7 +79,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Week 2 Readings.md",
+                    "file": "Introduction speech.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -107,7 +107,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Week 2 Readings"
+                  "title": "Graph of Introduction speech"
                 }
               }
             ]
@@ -382,12 +382,13 @@
   },
   "active": "ee587d83ea8aef50",
   "lastOpenFiles": [
-    "Philosophy 341.md",
+    "Public Speaking.md",
+    "Introduction speech.md",
     "Week 2 Readings.md",
+    "Philosophy 341.md",
     "Dischidia Reading.md",
     "Pasted image 20250111142305.png",
     "Natural History Collections.md",
-    "Public Speaking.md",
     "Scientific Writing.md",
     "Community and Ecosystem Ecology.md",
     "CHEM-102.md",
@@ -408,7 +409,6 @@
     "Excalidraw/Compounds and Bonds 2024-11-08 11.55.22.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 11.06.33.excalidraw.md",
     "Excalidraw/Compounds and Bonds 2024-11-08 11.57.30.excalidraw.md",
-    "Excalidraw/Lewis_Bond.excalidraw.md",
     "IMG_0010.jpg",
     "Pasted image 20241022154942.png",
     "Pasted image 20241022154938.png",

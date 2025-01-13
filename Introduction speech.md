@@ -1,0 +1,2 @@
+- How many of yall feel like you know who you are? like, really?
+- Our society expects us to have all that figured out by about 17 years old, 
