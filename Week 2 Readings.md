@@ -71,7 +71,8 @@
 - To fight this alienation of nature, we can look to the wilderness in the places we actually live; A tree behind your house, a small pond 
 - "By teaching us to fetishize sublime places and wide open country, these peculiarly American ways of thinking about wilderness encourage us to adopt too high a standard for what counts as “natural.” If it isn’t hundreds of square miles big, if it doesn’t give us God’s eye views or grand vistas, if it doesn’t permit us the illusion that we are alone on the planet, then it really isn’t natural. It’s too small, too plain, or too crowded to be authentically wild." This was EXACTLY my problem with Thoreau!!!
 - "Any way of looking at nature that encourages us to believe we are separate from nature—as wilderness tends to do—is likely to reinforce environmentally irresponsible behavior. On the other band, I also think it no less crucial for us to recognize and honor nonhuman nature as a world we did not create, a world with its own independent, nonhuman reasons for being as it is."
-- 
+- "The tree in the garden is in reality no less other, no less worthy of our wonder and respect, than the tree in an ancient forest that has never known an ax or a saw—even though the tree in the forest reflects a more intricate web of ecological relationships. The tree in the garden could easily have sprung from the same seed as the tree in the forest, and we can claim only its location and perhaps its form as our own."
+- "The task of making a home in nature is what Wendell Berry has called “the forever unfinished lifework of our species.” “The only thing we have to preserve nature with” he writes, “is culture; the only thing we have to preserve wildness with is domesticity.”"
  
 ## Thoughts
 - Our perception of wilderness as wasted land or pristine nature that should be protected goes hand in hand with the awareness of our ability to alter the natural world, for worse or for better( Jonas Thesis)
@@ -79,8 +80,6 @@
 - The people who inhabited this frontier became legendary figures of idealized masculinity(Cowboys, Davy Crockett, etc)
 - They are both a civilizing force and a symbol of the natural world we feel that we have lost. Striking out to know and fight against nature.
 - A lot of these writings highlight the conflict of what we do versus what we Idealize; Every action we take on land can be seen as a civilizing force, but we glorify nature as a sacred, untouchable presence. 
-- Cronon likes this idea of masculine humans and a feminine nature, creating a gendered idea of environmentalism
-- Mankind and Nature are in a toxic relationship.
-- "And yet protecting the rain forest in the eyes of First World environmentalists all too often means protecting it from the people who live there."
+- Cronon likes this idea of masculine humans and a feminine nature, creating a gendered idea of environmentalism - Mankind and Nature are in a toxic relationship. - "And yet protecting the rain forest in the eyes of First World environmentalists all too often means protecting it from the people who live there."
 - We need to find a way to make the combination of wilderness and civilization work together.
 - Cronon suggests a kind of solarpunk environmentalism
