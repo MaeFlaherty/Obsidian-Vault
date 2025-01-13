@@ -59,7 +59,15 @@
 - To stop this, we have to lock the wilderness away, leaving it untouched and pristine
 - This turns wilderness into less of a cathedral and more of a theme park
 - a figure in the idealized version of the frontier is the cowboy
-- 
+- Wilderness eventually became an aesthetic choice for the wealthy
+- This conception of wilderness as untouched land especially harmed native tribes that had lived in and worked that land for generations(Mount Rushmore is a good example of this)
+- "No matter what the angle from which we regard it, wilderness offers us the illusion that we can escape the cares and troubles of the world in which our past has ensnared us."
+- We inhabit civilization while holding some part of ourselves—what we imagine to be the most precious part—aloof from its entanglements. We work our nine-to-five jobs in its institutions, we eat its food, we drive its cars (not least to reach the wilderness), we benefit from the intricate and all too invisible networks with which it shelters us, all the while pretending that these things are not an essential part of who we are. By imagining that our true home is in the wilderness, we forgive ourselves the homes we actually inhabit.
+- The primitivist idea absolves us of responsibility for our actual lives not being sustainable. Thinking of modern life as a perversion and unnatural is not productive for improving our relationship with the world we live in. 
+- "in its reproduction of the dangerous dualism that sets human beings outside of nature—in all of these ways, wilderness poses a serious threat to responsible environmentalism at the end of the twentieth century."
+- "The tautology gives us no way out: if wild nature is the only thing worth saving, and if our mere presence destroys it, then the sole solution to our own unnaturalness, the only way to protect sacred wilderness from profane humanity, would seem to be suicide. It is not a proposition that seems likely to produce very positive or practical results."
+- This does not mean returning to animal
+- Wilderness has a class affiliation too; Poor people who cannot travel or do not have time to take off work or money for equipment lose access to wilderness.
  
 ## Thoughts
 - Our perception of wilderness as wasted land or pristine nature that should be protected goes hand in hand with the awareness of our ability to alter the natural world, for worse or for better( Jonas Thesis)
@@ -68,4 +76,7 @@
 - They are both a civilizing force and a symbol of the natural world we feel that we have lost. Striking out to know and fight against nature.
 - A lot of these writings highlight the conflict of what we do versus what we Idealize; Every action we take on land can be seen as a civilizing force, but we glorify nature as a sacred, untouchable presence. 
 - Cronon likes this idea of masculine humans and a feminine nature, creating a gendered idea of environmentalism
-- 
+- Mankind and Nature are in a toxic relationship.
+- "And yet protecting the rain forest in the eyes of First World environmentalists all too often means protecting it from the people who live there."
+- We need to find a way to make the combination of wilderness and civilization work together.
+- Cronon suggests a kind of solarpunk environmentalism
