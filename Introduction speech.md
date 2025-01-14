@@ -1,4 +1,5 @@
 - How many of yall feel like you know who you are? like, really?
 - We're expected us to have all that figured out by about 17 years old, and then stake a huge amount of money in the form of student loans on that being our one thing, for the rest of our life
 - I don't think I can answer the question of who I am, but maybe I can tell you how I got to know myself a little better
-- As a kid, I felt pretty disconnected from my own body, and being out in the woods helped with that
+- I was a pretty shy kid, read a lot, nerdy, you know
+- When I was about 5 or 6, I was having dinner at my grandma's house, and someone wanted me to try zuchinni, 
