@@ -6,3 +6,4 @@
 - When the time came to choose my major for college, I Used the same strategy. I was good ac computer science, even enjoyed coding at points, but it never felt like I had found my passion in it. 
 - One escape from my own head always came when I went camping. Getting out into nature would always snap me back into my body, flooding my senses with beautiful sights and sounds, and requiring many minor physical tasks that became almost meditative. Everything about it required that I be present, exactly where I was. 
 - As someone who lived mostly about 15 minutes in the future, where I imagined everything I was doing would go horribly wrong somehow, it was a place I could go to think clearly, and be myself fully. 
+- about a year ago, I figured all this out and switched to environmental science, 
