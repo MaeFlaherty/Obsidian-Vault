@@ -24,13 +24,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 Readings.md",
+                "file": "Introduction speech.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 Readings"
+              "title": "Introduction speech"
             }
           },
           {
@@ -66,10 +66,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Week 2 Readings.md"
+                    "file": "Introduction speech.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Week 2 Readings"
+                  "title": "Outline of Introduction speech"
                 }
               }
             ]
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Week 2 Readings.md",
+                    "file": "Introduction speech.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -112,7 +112,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Week 2 Readings"
+                  "title": "Graph of Introduction speech"
                 }
               }
             ]
@@ -387,9 +387,9 @@
   },
   "active": "865ce9714a1fe01e",
   "lastOpenFiles": [
+    "Week 2 Readings.md",
     "Introduction speech.md",
     "Public Speaking.md",
-    "Week 2 Readings.md",
     "Philosophy 341.md",
     "Dischidia Reading.md",
     "Pasted image 20250111142305.png",
