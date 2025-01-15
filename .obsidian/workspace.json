@@ -24,13 +24,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species Interaction - Competition.md",
+                "file": "Thomas Belton.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Species Interaction - Competition"
+              "title": "Thomas Belton"
             }
           },
           {
@@ -66,10 +66,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Species Interaction - Competition.md"
+                    "file": "Thomas Belton.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Species Interaction - Competition"
+                  "title": "Outline of Thomas Belton"
                 }
               }
             ]
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Species Interaction - Competition.md",
+                    "file": "Thomas Belton.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -112,7 +112,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Species Interaction - Competition"
+                  "title": "Graph of Thomas Belton"
                 }
               }
             ]
@@ -387,9 +387,10 @@
   },
   "active": "865ce9714a1fe01e",
   "lastOpenFiles": [
+    "Thomas Belton.md",
+    "Species Interaction - Competition.md",
     "Screenshot 2025-01-14 at 2.48.46 PM.png",
     "Community and Ecosystem Ecology.md",
-    "Species Interaction - Competition.md",
     "Introduction speech.md",
     "Week 2 Readings.md",
     "Public Speaking.md",
@@ -425,7 +426,6 @@
     "Untitled 4.canvas",
     "Screenshot 2024-10-17 at 3.07.50 PM.png",
     "Pasted image 20241017132318.png",
-    "Pasted image 20241017111116.png",
     "Templates",
     "GEO 101_F2024_syllabus(1).pdf",
     "CHEM 101_Syllabus_F24.pdf",
