@@ -45,3 +45,14 @@ One Species Benefits, the other is unaffected
 ## Amensalism
 One species is negatively effected, the other is unaffected
 
+
+# Ecological Niche
+An ecological niche is a set of multi dimensional conditions that allows a specific species to thrive and reproduce
+
+## Niche Overlap
+When 2 species ecological niche overlap, competition occurs between the species
+
+## Competitive Exclusion Principle
+Coexisting species oc
+
+

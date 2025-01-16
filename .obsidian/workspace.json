@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 Readings.md",
+                "file": "Species Interaction - Competition.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 Readings"
+              "title": "Species Interaction - Competition"
             }
           }
         ]
@@ -40,10 +40,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Week 2 Readings.md"
+                    "file": "Species Interaction - Competition.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Week 2 Readings"
+                  "title": "Outline of Species Interaction - Competition"
                 }
               }
             ]
@@ -58,7 +58,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Week 2 Readings.md",
+                    "file": "Species Interaction - Competition.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -86,7 +86,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Week 2 Readings"
+                  "title": "Graph of Species Interaction - Competition"
                 }
               }
             ]
@@ -361,13 +361,13 @@
   },
   "active": "875d808b6f0e98a2",
   "lastOpenFiles": [
+    "Community and Ecosystem Ecology.md",
+    "Species Interaction - Competition.md",
+    "Week 2 Readings.md",
     "Philosophy 341.md",
     "Thomas Belton.md",
-    "Species Interaction - Competition.md",
     "Screenshot 2025-01-14 at 2.48.46 PM.png",
-    "Community and Ecosystem Ecology.md",
     "Introduction speech.md",
-    "Week 2 Readings.md",
     "Public Speaking.md",
     "Dischidia Reading.md",
     "Pasted image 20250111142305.png",
