@@ -53,6 +53,11 @@ An ecological niche is a set of multi dimensional conditions that allows a speci
 When 2 species ecological niche overlap, competition occurs between the species
 
 ## Competitive Exclusion Principle
-Coexisting species oc
+Coexisting species occupy non-overlapping ecological niches. This will cause species with overlapping niches to diverge over time, or for one species to drive the other to extinction within the overlapping niche
+
+Co-Evolution Vs Competitive Extinction
 
 
+![[Screenshot 2025-01-16 at 2.24.55 PM.png]]
+
+![[Screenshot 2025-01-16 at 2.29.57 PM.png]]
