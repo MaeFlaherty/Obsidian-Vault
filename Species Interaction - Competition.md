@@ -61,3 +61,18 @@ Co-Evolution Vs Competitive Extinction
 ![[Screenshot 2025-01-16 at 2.24.55 PM.png]]
 
 ![[Screenshot 2025-01-16 at 2.29.57 PM.png]]
+
+# Character Displacement
+Species are more different in sympatry than when in allopatry(Species can occupy similar niches if they are far enough away from each other spatially)
+
+![[Screenshot 2025-01-16 at 2.42.13 PM.png]]
+
+# Lotka-Volterra Competition Model
+$$
+\frac{dN}{dt}=rN(\frac{K_1-N_1}{K_2})
+$$
+Covers intraspecific competition
+
+$$
+\frac{\Delta N_1}{\Delta t}=r_1N_1[\frac{(K_1-N_2-\alpha_{1,2}N_2)}{K_1}]
+$$
