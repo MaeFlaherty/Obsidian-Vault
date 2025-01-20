@@ -14,32 +14,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species Interaction - Competition.md",
+                "file": "Week 2 Readings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Species Interaction - Competition"
-            }
-          },
-          {
-            "id": "c37e6cd8c3b1142c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dug E-Board Meeting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dug E-Board Meeting"
+              "title": "Week 2 Readings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f688d8fe62a1abfb",
@@ -56,10 +40,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Dug E-Board Meeting.md"
+                    "file": "Week 2 Readings.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Dug E-Board Meeting"
+                  "title": "Outline of Week 2 Readings"
                 }
               }
             ]
@@ -74,7 +58,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dug E-Board Meeting.md",
+                    "file": "Week 2 Readings.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -102,7 +86,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Dug E-Board Meeting"
+                  "title": "Graph of Week 2 Readings"
                 }
               }
             ]
@@ -375,7 +359,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c37e6cd8c3b1142c",
+  "active": "875d808b6f0e98a2",
   "lastOpenFiles": [
     "Species Interaction - Competition.md",
     "Dug E-Board Meeting.md",
