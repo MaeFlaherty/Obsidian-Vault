@@ -8,3 +8,6 @@
 - As someone who lived mostly about 15 minutes in the future, where I imagined everything I was doing would go horribly wrong somehow, it was a place I could go to think clearly, and be myself fully. 
 - about a year ago, I figured all this out and decided that I wanted to help protect the place that brought me som much comfort, and try to set my own expectation of myself, rather than relying on others.
 - Now, i'm trying to figure out what I expect from myself
+o
+
+[[Intro/Co]]
