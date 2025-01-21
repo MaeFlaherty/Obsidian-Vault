@@ -12,9 +12,21 @@ Stories, Statistics, Testimonies
 
 Approach the idea from many different angles! dont throw exclusively anecdotes or exclusively statistics(Or if you do, vary the perspectives within the studies/stories)
 
+Split your time between points(slightly weighted or evenly, don't devote most of your time to only one point)
 
+## Deductive vs Inductive Reasoning
+General to specific/Specific to general
 
+## Contextual Reasoning
+Establish a context, then allow your thesis to slot into place
 
+## Transitions
+Make sure you flow smoothly from one point to the next. Interrupting/transitioning abruptly is less effective. 
+
+Internal previews, 
+
+### Pauses 
+Pauses can be an effective transition as well
 
 # Conclusion
 
