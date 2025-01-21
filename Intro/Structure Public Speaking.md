@@ -1,9 +1,25 @@
 Having a defined beginning and ending can reduce anxiety, and help you communicate your position to the audience. 
 
-Connecting the beginning and end of a speech creates a structure and allows people to remember what you've said. 
+Connecting the beginning and end of a speech creates a structure and allows people to remember what you've said. Conclusion and introduction account for 90% of an effective speech
 
 # Thesis
 Know the purpose of your communication, and identify the central idea that you want to get across to them(a thesis). This applies to all forms of communication. 
+
+# Introduction
+Get people's attention(you need a HOOK)
+- Relate the topic of your speech to the interests and needs of your audience
+- "This applies to YOU", doesn't have to be complicated, but **must** be interesting
+- Spark the listener's curiosity(but not to the point that they get lost and disengage)
+- Ask a question! Rhetorical, philosophical, something that requires a bit of thinking
+
+Reveal the topic
+
+Establish credibility and goodwill 
+- Why are you qualified to talk about this?
+- "How does this apply to ME"
+- 
+
+Preview the evidence/thesis
 
 # Content
 Present multiple forms of evidence that support your thesis(Logos Pathos Ethos)
@@ -29,7 +45,6 @@ Internal previews,
 Pauses can be an effective transition as well
 
 # Conclusion
-
 
 
 
