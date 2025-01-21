@@ -46,5 +46,14 @@ Pauses can be an effective transition as well
 
 # Conclusion
 
+- Shorter than your intro
+- Bring the audience back to your thesis, reinforce best parts, and close out the speech
+- this is what people remember from your speech
+- Columbo their asses; "Oh, and one more thing"
+- 60 - 40 seconds
+- End with a bang! be passionate at the end!
+
+
+
 
 
