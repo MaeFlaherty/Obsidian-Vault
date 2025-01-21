@@ -1,0 +1,6 @@
+- Collect Specimens
+- Curate Specimens
+- Record characteristics of the organisms
+- are these organisms different?
+- Are these organisms new to science
+- Document and tell the world
