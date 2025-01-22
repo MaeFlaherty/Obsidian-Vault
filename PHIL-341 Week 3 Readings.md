@@ -3,11 +3,11 @@
 - "It is therefore right and proper that this book should open with a tribute to the fantastic Martian voyage of those two mechanical Norsemen."
 -  Entropy reduction as evidence for life, regardless of the form or chemical basis
 - At time of writing, we had a very vague definition of life
-- At best, the lit-
-erature read like a collection of expert reports, as if a group of
-scientists from another world had taken a television receiver home
-with them and had reported on it. The chemist said it was made of
-wood, glass, and metal. The physicist said it radiated heat and light.
-The engineer said the supporting wheels were too small and in the
-wrong place for it to run smoothly on a flat surface. But nobody said
-w h a t it w a s .
+- At best, the lit-erature read like a collection of expert reports, as if a group of scientists from another world had taken a television receiver home with them and had reported on it. The chemist said it was made of wood, glass, and metal. The physicist said it radiated heat and light. The engineer said the supporting wheels were too small and in the wrong place for it to run smoothly on a flat surface. But nobody said w h a t it w a s.
+- Parable of the elephant
+- We recognize life intuitively, not by technical definition(even in science)
+- This is why it's so difficult to know if we have created artificial life(difference between something seeming alive, vs being alive in reality, or does the difference even matter? the Turing test uses our sense of something being alive)  
+- "one of those processes which are found whenever there is an abundant flow of energy. It is characterized by a tendency to shape or form itself as it consumes, but to do so it must always excrete low-grade products to the surroundings."
+- This definition als applies to things we typically think of as nonliving, like currents in a stream, or a fire
+- The atmosphere as a homeostatic system
+- 
