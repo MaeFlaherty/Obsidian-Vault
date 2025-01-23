@@ -5,6 +5,8 @@ Connecting the beginning and end of a speech creates a structure and allows peop
 # Thesis
 Know the purpose of your communication, and identify the central idea that you want to get across to them(a thesis). This applies to all forms of communication. 
 
+Needs to be specific and interesting, strong claim!!!
+
 # Introduction
 Get people's attention(you need a HOOK)
 - Relate the topic of your speech to the interests and needs of your audience
@@ -50,7 +52,7 @@ Pauses can be an effective transition as well
 - Bring the audience back to your thesis, reinforce best parts, and close out the speech
 - this is what people remember from your speech
 - Columbo their asses; "Oh, and one more thing"
-- 60 - 40 seconds
+- 40 - 60 seconds
 - End with a bang! be passionate at the end!
 
 
