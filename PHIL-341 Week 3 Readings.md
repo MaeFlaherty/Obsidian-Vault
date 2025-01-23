@@ -10,4 +10,4 @@
 - "one of those processes which are found whenever there is an abundant flow of energy. It is characterized by a tendency to shape or form itself as it consumes, but to do so it must always excrete low-grade products to the surroundings."
 - This definition als applies to things we typically think of as nonliving, like currents in a stream, or a fire
 - The atmosphere as a homeostatic system
-- 
+- It is an alternative to that pessimistic view which sees nature as a primitive force to be subdued and conqueredIt is also an alternative to that equally depressing picture of our planet as a demented spaceship, forever travelling, driverless and purposeless, around an inner circle of the sun.
