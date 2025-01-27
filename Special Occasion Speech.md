@@ -21,3 +21,7 @@ Loyalty - Always(loudly) supports the eagles, even when it's 4am
 
 Rises above a crowd(volume wise) - He's the loudest of his friends, by far!
 
+
+# speech
+- I'm here to present an award to 
+- You Know, when I first met kyle, I was unimpressed! Sure, 
