@@ -23,5 +23,5 @@ Rises above a crowd(volume wise) - He's the loudest of his friends, by far!
 
 
 # speech
-- I'm here to present an award to 
-- You Know, when I first met kyle, I was unimpressed! Sure, 
+- I'm here to present an award to Kyle, the loud ass frat boy who likes to hang out in the parking lot directly beneath my bedroom window
+- You Know, when I first met kyle, drunk, screaming, and throwing beer bottles at a fence, I have to admit, I was unimpressed. 
