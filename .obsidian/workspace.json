@@ -350,9 +350,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "b2b0bc281d51b9f3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -377,7 +387,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1f0665df820bd2f9",
+  "active": "b2b0bc281d51b9f3",
   "lastOpenFiles": [
     "Scientific Writing.md",
     "Community and Ecosystem Ecology.md",
